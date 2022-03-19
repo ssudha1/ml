@@ -1,0 +1,2403 @@
+DroidScraper: A Tool for Android In-Memory Object Recovery and Reconstruction
+/Users/aaligombe/Desktop/Testing/Mem_Images/com.parseapp.snapphoto.apk/memory_dump
+Address 0x12c00000L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x12c00018L 0x0 java.lang.Class - com.android.internal.os.BinderInternal$GcWatcher 8
+Address 0x12c00020L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x12c40000L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x12c40010L 0x0 java.lang.Class - java.lang.String 35
+Address 0x12c40038L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x12c40048L 0x0 java.lang.Class - java.lang.String 35
+Address 0x12c40070L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x12c40080L 0x0 java.lang.Class - java.lang.String 35
+Address 0x12c80000L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x12c80010L 0x0 java.lang.Class - java.lang.String 35
+Address 0x13180000L 0x0 java.lang.Class - android.os.MessageQueue 39
+Address 0x13180028L 0x0 java.lang.Class - java.lang.reflect.Method 40
+Address 0x13180050L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x13180060L 0x0 java.lang.Class - android.os.Looper 40
+Address 0x13180088L 0x0 java.lang.Class - java.io.File 24
+Address 0x131800a0L 0x0 java.lang.Class - [Ljava.lang.String; 12
+Address 0x131800b0L 0x0 java.lang.Class - android.app.ActivityThread 206
+Address 0x13180180L 0x0 java.lang.Class - com.android.internal.os.Zygote$MethodAndArgsCaller 36
+Address 0x131801a8L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x13180230L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x131802b8L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x13180340L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x131803c8L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x13180450L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x131804d8L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x13180560L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x131805e8L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x13180670L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x131806f8L 0x0 java.lang.Class - android.os.HandlerThread 148
+Address 0x13180790L 0x0 java.lang.Class - android.os.MessageQueue 39
+Address 0x131807b8L 0x0 java.lang.Class - android.os.Looper 40
+Address 0x131807e0L 0x0 java.lang.Class - java.lang.Thread 132
+Address 0x13180868L 0x0 java.lang.Class - com.android.internal.os.AndroidPrintStream 60
+Address 0x131808a8L 0x0 java.lang.Class - com.android.internal.os.AndroidPrintStream 60
+Address 0x131808e8L 0x0 java.lang.Class - java.util.Properties 44
+Address 0x13180918L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13180930L 0x0 java.lang.Class - java.util.logging.LogManager$LoggerWeakRef 41
+Address 0x13180960L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13180978L 0x0 java.lang.Class - com.android.internal.os.RuntimeInit$KillApplicationHandler 8
+Address 0x13180980L 0x0 java.lang.Class - com.android.internal.os.RuntimeInit$LoggingHandler 8
+Address 0x13180988L 0x0 java.lang.Class - sun.security.jca.ProviderList 17
+Address 0x131809a0L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131809c8L 0x0 java.lang.Class - android.app.ActivityThread$DropBoxReporter 16
+Address 0x131809d8L 0x0 java.lang.Class - com.android.internal.os.RuntimeInit$1 8
+Address 0x131809e0L 0x0 java.lang.Class - com.android.server.NetworkManagementSocketTagger 8
+Address 0x131809e8L 0x0 java.lang.Class - android.app.ActivityThread$EventLoggingReporter 8
+Address 0x131809f0L 0x0 java.lang.Class - android.security.net.config.ConfigNetworkSecurityPolicy 12
+Address 0x13180a00L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13180a28L 0x0 java.lang.Class - java.io.File 24
+Address 0x13180a40L 0x0 java.lang.Class - java.io.File 24
+Address 0x13180a58L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13180a70L 0x0 java.lang.Class - java.lang.String 39
+Address 0x13180a98L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13180ab8L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13180ae0L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13180b08L 0x0 java.lang.Class - java.lang.String 39
+Address 0x13180b30L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13180b58L 0x0 java.lang.Class - java.lang.String 41
+Address 0x13180b88L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13180bb0L 0x0 java.lang.Class - java.lang.String 39
+Address 0x13180bd8L 0x0 java.lang.Class - java.lang.String 29
+Address 0x13180bf8L 0x0 java.lang.Class - java.lang.String 57
+Address 0x13180c38L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13180c58L 0x0 java.lang.Class - java.lang.String 27
+Address 0x13180c78L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13180ca0L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13180cc8L 0x0 java.lang.Class - java.lang.String 36
+Address 0x13180cf0L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13180d18L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13180d40L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13180d68L 0x0 java.lang.Class - java.lang.String 43
+Address 0x13180d98L 0x0 java.lang.Class - java.lang.String 36
+Address 0x13180dc0L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13180de8L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13180e10L 0x0 java.lang.Class - java.lang.String 39
+Address 0x13180e38L 0x0 java.lang.Class - java.lang.String 32
+Address 0x13180e58L 0x0 java.lang.Class - java.lang.String 42
+Address 0x13180e88L 0x0 java.lang.Class - java.lang.String 35
+Address 0x13180eb0L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13180ed0L 0x0 java.lang.Class - java.lang.String 48
+Address 0x13180f00L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13180f28L 0x0 java.lang.Class - java.lang.String 44
+Address 0x13180f58L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13180f80L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13180fa0L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13180fc8L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13180fe8L 0x0 java.lang.Class - java.lang.String 36
+Address 0x13181010L 0x0 java.lang.Class - java.lang.String 51
+Address 0x13181048L 0x0 java.lang.Class - java.lang.String 48
+Address 0x13181078L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13181098L 0x0 java.lang.Class - java.lang.String 50
+Address 0x131810d0L 0x0 java.lang.Class - java.lang.String 27
+Address 0x131810f0L 0x0 java.lang.Class - java.lang.String 25
+Address 0x13181110L 0x0 java.lang.Class - java.lang.String 32
+Address 0x13181130L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13181158L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13181178L 0x0 java.lang.Class - java.lang.String 36
+Address 0x131811a0L 0x0 java.lang.Class - java.lang.String 36
+Address 0x131811c8L 0x0 java.lang.Class - java.lang.String 59
+Address 0x13181208L 0x0 java.lang.Class - java.lang.String 56
+Address 0x13181240L 0x0 java.lang.Class - java.lang.String 28
+Address 0x13181260L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13181288L 0x0 java.lang.Class - java.lang.String 41
+Address 0x131812b8L 0x0 java.lang.Class - java.lang.String 31
+Address 0x131812d8L 0x0 java.lang.Class - java.lang.String 24
+Address 0x131812f0L 0x0 java.lang.Class - java.lang.String 44
+Address 0x13181320L 0x0 java.lang.Class - java.lang.String 32
+Address 0x13181340L 0x0 java.lang.Class - java.lang.String 50
+Address 0x13181378L 0x0 java.lang.Class - java.lang.String 44
+Address 0x131813a8L 0x0 java.lang.Class - java.lang.String 33
+Address 0x131813d0L 0x0 java.lang.Class - java.lang.String 37
+Address 0x131813f8L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13181420L 0x0 java.lang.Class - java.lang.String 42
+Address 0x13181450L 0x0 java.lang.Class - java.lang.String 39
+Address 0x13181478L 0x0 java.lang.Class - java.lang.String 35
+Address 0x131814a0L 0x0 java.lang.Class - java.lang.String 37
+Address 0x131814c8L 0x0 java.lang.Class - java.lang.String 40
+Address 0x131814f0L 0x0 java.lang.Class - java.lang.String 46
+Address 0x13181520L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13181548L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13181568L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13181590L 0x0 java.lang.Class - java.lang.String 33
+Address 0x131815b8L 0x0 java.lang.Class - java.lang.String 44
+Address 0x131815e8L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13181608L 0x0 java.lang.Class - java.lang.String 40
+Address 0x13181630L 0x0 java.lang.Class - java.lang.String 43
+Address 0x13181660L 0x0 java.lang.Class - java.lang.String 45
+Address 0x13181690L 0x0 java.lang.Class - java.lang.String 37
+Address 0x131816b8L 0x0 java.lang.Class - java.lang.String 36
+Address 0x131816e0L 0x0 java.lang.Class - java.lang.String 50
+Address 0x13181718L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13181738L 0x0 java.lang.Class - java.lang.String 44
+Address 0x13181768L 0x0 java.lang.Class - java.lang.String 21
+Address 0x13181780L 0x0 java.lang.Class - java.lang.String 44
+Address 0x131817b0L 0x0 java.lang.Class - java.lang.String 31
+Address 0x131817d0L 0x0 java.lang.Class - java.lang.String 54
+Address 0x13181808L 0x0 java.lang.Class - java.lang.String 49
+Address 0x13181840L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13181868L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13181888L 0x0 java.lang.Class - java.lang.String 48
+Address 0x131818b8L 0x0 java.lang.Class - java.lang.String 36
+Address 0x131818e0L 0x0 java.lang.Class - java.lang.String 32
+Address 0x13181900L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13181928L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13181950L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13181970L 0x0 java.lang.Class - java.lang.String 41
+Address 0x131819a0L 0x0 java.lang.Class - java.lang.String 47
+Address 0x131819d0L 0x0 java.lang.Class - java.lang.String 33
+Address 0x131819f8L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13181a20L 0x0 java.lang.Class - java.lang.String 51
+Address 0x13181a58L 0x0 java.lang.Class - java.lang.String 49
+Address 0x13181a90L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181aa8L 0x0 java.lang.Class - java.lang.String 35
+Address 0x13181ad0L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181ae8L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181b00L 0x0 java.lang.Class - java.lang.String 52
+Address 0x13181b38L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181b50L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181b68L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181b80L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181b98L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181bb0L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181bc8L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181be0L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181bf8L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181c10L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181c28L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181c40L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181c58L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181c70L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181c88L 0x0 java.lang.Class - java.lang.String 36
+Address 0x13181cb0L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181cc8L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181ce0L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181cf8L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181d10L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181d28L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181d40L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181d58L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13181d70L 0x0 java.lang.Class - java.lang.String 32
+Address 0x13181d90L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181da8L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181dc0L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181dd8L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181df0L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181e08L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13181e20L 0x0 java.lang.Class - java.lang.String 45
+Address 0x13181e50L 0x0 java.lang.Class - java.lang.String 42
+Address 0x13181e80L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13181ea8L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13181ed0L 0x0 java.lang.Class - java.lang.Class 192
+Address 0x13181f90L 0x0 java.lang.DexCache 0
+Address 0x13181f98L 0x0 [Ljava.lang.Object; 8
+Address 0x13181fa0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13181fb0L 0x0 Cannot Be Resolved 0
+Address 0x13182000L 0x6f1b3bc0 java.lang.Object 0
+Address 0x13182008L 0x6f1b3c00 java.lang.Object 0
+Address 0x13182010L 0x6f1b3c40 java.lang.Object 0
+Address 0x13182018L 0x6f1b3c80 java.lang.Object 0
+Address 0x13182020L 0x6f1b3cc0 java.lang.Object 0
+Address 0x13182028L 0xf5117674 java.lang.Object 0
+Address 0x13182030L 0xf51176b4 Cannot Be Resolved 0
+Address 0x13182038L 0x0 Cannot Be Resolved 0
+Address 0x13182040L 0x0 java.lang.Class - java.lang.Class 208
+Address 0x13182110L 0x0 java.lang.Class - java.lang.Class 288
+Address 0x13182230L 0x0 [Ljava.lang.Object; 8
+Address 0x13182238L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13182248L 0x0 Cannot Be Resolved 0
+Address 0x13182298L 0x6f1b3bc0 java.lang.Object 0
+Address 0x131822a0L 0x6f1b3c00 java.lang.Object 0
+Address 0x131822a8L 0x6f1b3c40 java.lang.Object 0
+Address 0x131822b0L 0x6f1b3c80 java.lang.Object 0
+Address 0x131822b8L 0x6f1b3cc0 java.lang.Object 0
+Address 0x131822c0L 0xf5117eb4 java.lang.Object 0
+Address 0x131822c8L 0xf5117ef4 Cannot Be Resolved 0
+Address 0x131822d0L 0x0 Cannot Be Resolved 0
+Address 0x131822d8L 0x0 java.lang.Class - java.lang.Class 320
+Address 0x13182418L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13182430L 0x0 java.lang.Class - [I 48
+Address 0x13182460L 0x0 java.lang.Class - [I 48
+Address 0x13182490L 0x0 java.lang.Class - [Landroid.text.SpanWatcher; 12
+Address 0x131824a0L 0x0 java.lang.Class - android.provider.Settings$GenerationTracker 24
+Address 0x131824b8L 0x0 java.lang.Class - android.content.ContentProviderProxy 12
+Address 0x131824c8L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x13182518L 0x0 java.lang.Class - java.lang.String 24
+Address 0x13182530L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x13182580L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x131825d0L 0x0 java.lang.Class - android.os.Parcel 33
+Address 0x131825f8L 0x0 java.lang.Class - android.os.Parcel 33
+Address 0x13182620L 0x0 java.lang.Class - android.os.Parcel 33
+Address 0x13182648L 0x0 java.lang.Class - android.os.Parcel 33
+Address 0x13182670L 0x0 java.lang.Class - android.os.Parcel 33
+Address 0x13182698L 0x0 java.lang.Class - android.view.ViewConfiguration 83
+Address 0x131826f0L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 44
+Address 0x13182720L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13182750L 0x0 java.lang.Class - [I 28
+Address 0x13182770L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13182788L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x131827d8L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13182808L 0x0 java.lang.Class - [I 28
+Address 0x13182828L 0x0 java.lang.Class - android.text.TextLine 66
+Address 0x13182870L 0x0 java.lang.Class - android.text.TextLine 66
+Address 0x131828b8L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x131828f0L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13182928L 0x0 java.lang.Class - android.net.Uri$Part 16
+Address 0x13182938L 0x0 java.lang.Class - android.provider.Settings$GenerationTracker 24
+Address 0x13182950L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x131829a0L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x131829f0L 0x0 java.lang.Class - android.view.DisplayListCanvas 52
+Address 0x13182a28L 0x0 java.lang.Class - android.view.DisplayListCanvas 52
+Address 0x13182a60L 0x0 java.lang.Class - android.view.DisplayListCanvas 52
+Address 0x13182a98L 0x0 java.lang.Class - android.view.DisplayListCanvas 52
+Address 0x13182ad0L 0x0 java.lang.Class - android.view.DisplayListCanvas 52
+Address 0x13182b08L 0x0 java.lang.Class - android.view.DisplayListCanvas 52
+Address 0x13182b40L 0x0 java.lang.Class - com.android.internal.os.SomeArgs 73
+Address 0x13182b90L 0x0 java.lang.Class - android.view.ViewGroup$TouchTarget 20
+Address 0x13182ba8L 0x0 java.lang.Class - android.security.net.config.ApplicationConfig 29
+Address 0x13182bc8L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x13182bd8L 0x0 java.lang.Class - android.view.WindowManagerGlobal 32
+Address 0x13182bf8L 0x0 java.lang.Class - android.view.IWindowManager$Stub$Proxy 12
+Address 0x13182c08L 0x0 java.lang.Class - android.view.IWindowSession$Stub$Proxy 12
+Address 0x13182c18L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13182c40L 0x0 java.lang.Class - android.app.ActivityThread$H 32
+Address 0x13182c60L 0x0 java.lang.Class - android.content.pm.IPackageManager$Stub$Proxy 12
+Address 0x13182c70L 0x0 java.lang.Class - android.os.ServiceManagerProxy 12
+Address 0x13182c80L 0x0 java.lang.Class - java.io.File 24
+Address 0x13182c98L 0x0 java.lang.Class - android.hardware.display.DisplayManagerGlobal 36
+Address 0x13182cc0L 0x0 java.lang.Class - android.app.QueuedWork$QueuedWorkHandler 25
+Address 0x13182ce0L 0x0 java.lang.Class - [C 40
+Address 0x13182d08L 0x0 java.lang.Class - android.view.MotionEvent 32
+Address 0x13182d28L 0x0 java.lang.Class - android.app.ActivityThread$ApplicationThread 32
+Address 0x13182d48L 0x0 java.lang.Class - android.view.inputmethod.InputMethodManager 128
+Address 0x13182dc8L 0x0 java.lang.Class - [C 1016
+Address 0x131831c0L 0x0 java.lang.Class - android.app.ResourcesManager 32
+Address 0x131831e0L 0x0 java.lang.Class - Object cannot be derefenced 0
+Address 0x131831e8L 0x13190b80 android.app.ContextImpl 0
+Address 0x131831f8L 0x0 android.app.LoadedApk 0
+Address 0x13183208L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13183248L 0x0 java.lang.Class - android.view.accessibility.AccessibilityManager 55
+Address 0x13183280L 0x0 java.lang.Class - [I 44
+Address 0x131832b0L 0x0 java.lang.Class - dalvik.system.PathClassLoader 44
+Address 0x131832e0L 0x0 java.lang.Class - java.util.HashMap$Values 12
+Address 0x131832f0L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13183318L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13183350L 0x0 java.lang.Class - android.app.IActivityManager$Stub$Proxy 12
+Address 0x13183360L 0x0 java.lang.Class - android.view.IGraphicsStats$Stub$Proxy 12
+Address 0x13183370L 0x0 java.lang.Class - android.view.WindowManagerGlobal$2 12
+Address 0x13183380L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13183398L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131833b0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131833d8L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131833f0L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x13183400L 0x0 java.lang.Class - java.util.logging.LogManager$LoggerWeakRef 41
+Address 0x13183430L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183448L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13183460L 0x0 java.lang.Class - java.lang.String 57
+Address 0x131834a0L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x131834c0L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x131834e0L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13183500L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13183520L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13183540L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13183560L 0x0 java.lang.Class - android.os.StrictMode$AndroidBlockGuardPolicy 16
+Address 0x13183570L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13183590L 0x0 java.lang.Class - java.lang.String 23
+Address 0x131835a8L 0x0 java.lang.Class - java.lang.String 48
+Address 0x131835d8L 0x0 java.lang.Class - java.lang.String 32
+Address 0x131835f8L 0x0 java.lang.Class - java.lang.String 41
+Address 0x13183628L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13183650L 0x0 java.lang.Class - java.lang.String 82
+Address 0x131836a8L 0x0 java.lang.Class - java.lang.String 34
+Address 0x131836d0L 0x0 java.lang.Class - java.lang.String 28
+Address 0x131836f0L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13183718L 0x0 java.lang.Class - java.lang.String 35
+Address 0x13183740L 0x0 java.lang.Class - java.lang.String 29
+Address 0x13183760L 0x0 java.lang.Class - java.lang.String 42
+Address 0x13183790L 0x0 java.lang.Class - java.lang.String 23
+Address 0x131837a8L 0x0 java.lang.Class - java.lang.String 23
+Address 0x131837c0L 0x0 java.lang.Class - java.lang.String 23
+Address 0x131837d8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131837f0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183808L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183820L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183838L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183850L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183868L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183880L 0x0 java.lang.Class - android.hardware.display.DisplayManagerGlobal$DisplayManagerCallback 28
+Address 0x131838a0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131838b8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131838d0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131838e8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183900L 0x0 java.lang.Class - android.view.accessibility.AccessibilityManager$1 28
+Address 0x13183920L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183938L 0x0 java.lang.Class - android.view.WindowManagerGlobal$1 24
+Address 0x13183950L 0x0 java.lang.Class - android.view.inputmethod.InputMethodManager$1 28
+Address 0x13183970L 0x0 java.lang.Class - android.view.inputmethod.InputMethodManager$ControlledInputConnectionWrapper 48
+Address 0x131839a0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131839b8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131839d0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131839e8L 0x0 java.lang.Class - android.view.ViewRootImpl$W 32
+Address 0x13183a08L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183a20L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183a38L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183a50L 0x0 java.lang.Class - android.view.ViewRootImpl$W 32
+Address 0x13183a70L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183a88L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183aa0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183ab8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13183ad0L 0x0 java.lang.Class - com.android.internal.view.IInputConnectionWrapper$MyHandler 32
+Address 0x13183af0L 0x0 java.lang.Class - android.view.inputmethod.BaseInputConnection 29
+Address 0x13183b10L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13183b18L 0x0 java.lang.Class - android.text.SpannableStringBuilder 68
+Address 0x13183b60L 0x0 java.lang.Class - java.util.IdentityHashMap 32
+Address 0x13183b80L 0x0 java.lang.Class - [I 48
+Address 0x13183bb0L 0x0 java.lang.Class - [I 48
+Address 0x13183be0L 0x0 java.lang.Class - [I 24
+Address 0x13183bf8L 0x0 java.lang.Class - [I 48
+Address 0x13183c28L 0x0 java.lang.Class - [I 48
+Address 0x13183c58L 0x0 java.lang.Class - [Ljava.lang.Object; 48
+Address 0x13183c88L 0x0 java.lang.Class - [C 32
+Address 0x13183ca8L 0x0 java.lang.Class - [Ljava.lang.Object; 268
+Address 0x13183db8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13183dd0L 0x0 java.lang.Class - android.view.HandlerActionQueue 16
+Address 0x13183de0L 0x0 java.lang.Class - android.view.Choreographer 56
+Address 0x13183e18L 0x0 java.lang.Class - android.view.Choreographer$CallbackRecord 32
+Address 0x13183e38L 0x0 java.lang.Class - [Landroid.view.Choreographer$CallbackQueue; 28
+Address 0x13183e58L 0x0 java.lang.Class - android.view.Choreographer$FrameDisplayEventReceiver 41
+Address 0x13183e88L 0x0 java.lang.Class - android.view.FrameInfo 12
+Address 0x13183e98L 0x0 java.lang.Class - android.view.Choreographer$FrameHandler 32
+Address 0x13183eb8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13183ec0L 0x0 java.lang.Class - [J 84
+Address 0x13183f18L 0x0 java.lang.Class - android.view.Choreographer$CallbackQueue 16
+Address 0x13183f28L 0x0 java.lang.Class - android.view.Choreographer$CallbackQueue 16
+Address 0x13183f38L 0x0 java.lang.Class - android.view.Choreographer$CallbackQueue 16
+Address 0x13183f48L 0x0 java.lang.Class - android.view.Choreographer$CallbackQueue 16
+Address 0x13183f58L 0x0 java.lang.Class - android.view.Choreographer$CallbackRecord 32
+Address 0x13183f78L 0x0 java.lang.Class - android.view.Choreographer$CallbackRecord 32
+Address 0x13183f98L 0x0 java.lang.Class - android.view.Choreographer$CallbackRecord 32
+Address 0x13183fb8L 0x0 java.lang.Class - android.view.animation.AnimationUtils$AnimationState 25
+Address 0x13183fd8L 0x0 java.lang.Class - java.lang.String 85
+Address 0x13184030L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13184048L 0x0 java.lang.Class - com.android.internal.logging.AndroidHandler 33
+Address 0x13184070L 0x0 java.lang.Class - java.util.logging.ErrorManager 9
+Address 0x13184080L 0x0 java.lang.Class - java.lang.String 19
+Address 0x13184098L 0x0 java.lang.Class - java.util.logging.LogManager$LogNode 24
+Address 0x131840b0L 0x0 java.lang.Class - java.util.HashMap 40
+Address 0x131840d8L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x13184128L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13184140L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13184158L 0x0 java.lang.Class - java.util.logging.LogManager$LogNode 24
+Address 0x13184170L 0x0 java.lang.Class - java.util.logging.LogManager$LoggerWeakRef 41
+Address 0x131841a0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131841c8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131841f0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184218L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184240L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184268L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184290L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131842b8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131842e0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184308L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184330L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184358L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184380L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131843a8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131843d0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131843f8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184420L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184448L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184470L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184498L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131844c0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131844e8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184510L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184538L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184560L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184588L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131845b0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131845d8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184600L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184628L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184650L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184678L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131846a0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131846c8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131846f0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184718L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184740L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184768L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184790L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131847b8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131847e0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184808L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184830L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184858L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184880L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131848a8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131848d0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131848f8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184920L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184948L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184970L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184998L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131849c0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131849e8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184a10L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184a38L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184a60L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184a88L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184ab0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184ad8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184b00L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184b28L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184b50L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184b78L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184ba0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184bc8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184bf0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184c18L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184c40L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184c68L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184c90L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184cb8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184ce0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184d08L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184d30L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184d58L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184d80L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184da8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184dd0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184df8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184e20L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184e48L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184e70L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184e98L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184ec0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184ee8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184f10L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184f38L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184f60L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184f88L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184fb0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13184fd8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185000L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185028L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185050L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185078L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131850a0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131850c8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131850f0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185118L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185140L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185168L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185190L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131851b8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131851e0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185208L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185230L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185258L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185280L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131852a8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131852d0L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x131852f8L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185320L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185348L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185370L 0x0 java.lang.Class - java.lang.ref.FinalizerReference 36
+Address 0x13185398L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x131853b8L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x131853d8L 0x0 java.lang.Class - android.app.ActivityThread$2 16
+Address 0x131853e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185410L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185428L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185450L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185468L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185490L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131854a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131854d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131854e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185510L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185528L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185550L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185568L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185590L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131855a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131855d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131855e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185610L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185628L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185650L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185668L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185690L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131856a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131856d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131856e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185710L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185728L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185750L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185768L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry 32
+Address 0x13185788L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131857b0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131857c8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131857f0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185808L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185830L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185848L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry 32
+Address 0x13185868L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185890L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131858a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131858d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131858e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185910L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185928L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185950L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185968L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185990L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131859a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131859d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131859e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185a10L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185a28L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185a50L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185a68L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185a90L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185aa8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185ad0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185ae8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185b10L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185b28L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185b50L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185b68L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185b90L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185ba8L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry 32
+Address 0x13185bc8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185bf0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185c08L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185c30L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185c48L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185c70L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185c88L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185cb0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185cc8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185cf0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185d08L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185d30L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185d48L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185d70L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185d88L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185db0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185dc8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185df0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185e08L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185e30L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185e48L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185e70L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185e88L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185eb0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185ec8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185ef0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185f08L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185f30L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185f48L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185f70L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185f88L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185fb0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13185fc8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13185ff0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186008L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186030L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186048L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186070L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186088L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry 32
+Address 0x131860a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131860d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131860e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186110L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186128L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186150L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186168L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186190L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131861a8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131861d0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131861e8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186210L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186228L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186250L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186268L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186290L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131862a8L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry 32
+Address 0x131862c8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131862f0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186308L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186330L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186348L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186370L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186388L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131863b0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131863c8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131863f0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186408L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186430L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186448L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186470L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186488L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131864b0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131864c8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131864f0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186508L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186530L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186548L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x13186570L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186588L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131865b0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131865c8L 0x0 java.lang.Class - sun.misc.Cleaner 36
+Address 0x131865f0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186608L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x13186620L 0x0 java.lang.Class - java.util.HashMap 40
+Address 0x13186648L 0x0 java.lang.Class - java.util.HashMap 40
+Address 0x13186670L 0x0 java.lang.Class - dalvik.system.DexPathList 32
+Address 0x13186690L 0x0 java.lang.Class - java.lang.Class 916
+Address 0x13186a28L 0x0 java.lang.Class - java.lang.Class 192
+Address 0x13186ae8L 0x0 java.lang.DexCache 0
+Address 0x13186af0L 0x13188580 [Ljava.lang.Object; 8
+Address 0x13186af8L 0x0 java.lang.Class - Object cannot be derefenced 0
+Address 0x13186b00L 0x0 Cannot Be Resolved 0
+Address 0x13186b08L 0x0 Cannot Be Resolved 0
+Address 0x13186b10L 0x0 Cannot Be Resolved 0
+Address 0x13186b58L 0x6f1b3bc0 java.lang.Object 0
+Address 0x13186b60L 0x6f1b3c00 java.lang.Object 0
+Address 0x13186b68L 0x6f1b3c40 java.lang.Object 0
+Address 0x13186b70L 0x6f1b3c80 java.lang.Object 0
+Address 0x13186b78L 0x6f1b3cc0 java.lang.Object 0
+Address 0x13186b80L 0x6f6c3960 java.lang.Object 0
+Address 0x13186b88L 0x6f6a9afc android.content.ContextWrapper 0
+Address 0x13186b90L 0x6f6a9b3c android.content.ContextWrapper 0
+Address 0x13186b98L 0x6f6a9b7c android.app.Activity 0
+Address 0x13186ba0L 0x6f6a9bbc android.content.ContextWrapper 0
+Address 0x13186ba8L 0x6f6a9bfc android.content.ContextWrapper 0
+Address 0x13186bb0L 0x6f6a9c3c android.content.ContextWrapper 0
+Address 0x13186bb8L 0x6f6a9c7c android.content.ContextWrapper 0
+Address 0x13186bc0L 0x6f6a9cbc android.content.ContextWrapper 0
+Address 0x13186bc8L 0x6f6a9cfc android.content.ContextWrapper 0
+Address 0x13186bd0L 0x6f6a9d3c android.content.ContextWrapper 0
+Address 0x13186bd8L 0x6f6a9d7c android.content.ContextWrapper 0
+Address 0x13186be0L 0x6f6a9dbc android.content.ContextWrapper 0
+Address 0x13186be8L 0x6f6a9dfc android.content.ContextWrapper 0
+Address 0x13186bf0L 0x6f6a9e3c android.content.ContextWrapper 0
+Address 0x13186bf8L 0x6f6a9e7c android.content.ContextWrapper 0
+Address 0x13186c00L 0x6f6a9ebc android.content.ContextWrapper 0
+Address 0x13186c08L 0x6f6a9efc android.content.ContextWrapper 0
+Address 0x13186c10L 0x6f6a9f3c android.content.ContextWrapper 0
+Address 0x13186c18L 0x6f6a9f7c android.app.Activity 0
+Address 0x13186c20L 0x6f6550ec android.content.ContextWrapper 0
+Address 0x13186c28L 0x6f6aa01c android.content.ContextWrapper 0
+Address 0x13186c30L 0x6f6aa05c android.content.ContextWrapper 0
+Address 0x13186c38L 0x6f6c3f20 android.content.Context 0
+Address 0x13186c40L 0x6f6aa09c android.content.ContextWrapper 0
+Address 0x13186c48L 0x6f6aa0dc android.content.ContextWrapper 0
+Address 0x13186c50L 0x6f6aa11c android.content.ContextWrapper 0
+Address 0x13186c58L 0x6f6aa13c android.content.Context 0
+Address 0x13186c60L 0x6f6aa17c android.content.ContextWrapper 0
+Address 0x13186c68L 0x6f6aa1bc android.content.ContextWrapper 0
+Address 0x13186c70L 0x6f6aa1fc android.content.ContextWrapper 0
+Address 0x13186c78L 0x6f6aa23c android.content.ContextWrapper 0
+Address 0x13186c80L 0x6f75101c android.content.ContextWrapper 0
+Address 0x13186c88L 0x6f6aa2bc android.content.ContextWrapper 0
+Address 0x13186c90L 0x6f6aa2fc android.content.ContextWrapper 0
+Address 0x13186c98L 0x6f6aa33c android.content.ContextWrapper 0
+Address 0x13186ca0L 0x6f6aa37c android.content.ContextWrapper 0
+Address 0x13186ca8L 0x6f65512c android.content.ContextWrapper 0
+Address 0x13186cb0L 0x6f6aa3fc android.content.ContextWrapper 0
+Address 0x13186cb8L 0x6f6aa43c android.content.ContextWrapper 0
+Address 0x13186cc0L 0x6f6c4360 android.content.Context 0
+Address 0x13186cc8L 0x6f6c43a0 android.content.Context 0
+Address 0x13186cd0L 0x6f6aa47c android.app.Activity 0
+Address 0x13186cd8L 0x6f65516c android.content.Context 0
+Address 0x13186ce0L 0x6f6aa4dc android.view.ContextThemeWrapper 0
+Address 0x13186ce8L 0x6f6aa51c android.content.ContextWrapper 0
+Address 0x13186cf0L 0x6f6aa55c android.content.ContextWrapper 0
+Address 0x13186cf8L 0x6f6aa59c android.content.ContextWrapper 0
+Address 0x13186d00L 0x6f6aa5dc android.content.ContextWrapper 0
+Address 0x13186d08L 0x6f6c45a0 android.content.ContextWrapper 0
+Address 0x13186d10L 0x6f6c45e0 android.content.Context 0
+Address 0x13186d18L 0x6f6aa61c android.content.Context 0
+Address 0x13186d20L 0x6f6aa65c android.content.ContextWrapper 0
+Address 0x13186d28L 0x6f6aa69c android.content.ContextWrapper 0
+Address 0x13186d30L 0x6f6aa6bc android.content.Context 0
+Address 0x13186d38L 0x6f6aa6fc android.content.ContextWrapper 0
+Address 0x13186d40L 0x6f6aa73c android.content.ContextWrapper 0
+Address 0x13186d48L 0x6f6aa77c android.content.ContextWrapper 0
+Address 0x13186d50L 0x6f6aa7bc android.content.ContextWrapper 0
+Address 0x13186d58L 0x6f6aa7fc android.content.ContextWrapper 0
+Address 0x13186d60L 0x6f6aa83c android.content.ContextWrapper 0
+Address 0x13186d68L 0x6f6aa87c android.content.ContextWrapper 0
+Address 0x13186d70L 0x6f6aa8bc android.content.ContextWrapper 0
+Address 0x13186d78L 0x6f6aa8fc android.content.ContextWrapper 0
+Address 0x13186d80L 0x6f6aa93c android.content.ContextWrapper 0
+Address 0x13186d88L 0x6f6aa97c android.content.ContextWrapper 0
+Address 0x13186d90L 0x6f6aa9bc android.content.ContextWrapper 0
+Address 0x13186d98L 0x6f6aa9fc android.content.ContextWrapper 0
+Address 0x13186da0L 0x6f6aaa3c android.content.ContextWrapper 0
+Address 0x13186da8L 0x6f75287c android.content.ContextWrapper 0
+Address 0x13186db0L 0x6f6aaabc android.content.ContextWrapper 0
+Address 0x13186db8L 0x6f752a9c android.app.Activity 0
+Address 0x13186dc0L 0x6f752abc android.content.ContextWrapper 0
+Address 0x13186dc8L 0x6f752b1c android.app.Activity 0
+Address 0x13186dd0L 0x6f752bbc android.app.Activity 0
+Address 0x13186dd8L 0x6f6aabfc android.content.ContextWrapper 0
+Address 0x13186de0L 0x6f752cfc android.content.ContextWrapper 0
+Address 0x13186de8L 0x6f6aac7c android.app.Activity 0
+Address 0x13186df0L 0x6f6aacbc android.content.ContextWrapper 0
+Address 0x13186df8L 0x6f6aacfc android.content.ContextWrapper 0
+Address 0x13186e00L 0x6f6aad1c android.content.Context 0
+Address 0x13186e08L 0x6f6550cc android.content.ContextWrapper 0
+Address 0x13186e10L 0x6f6550ac android.content.ContextWrapper 0
+Address 0x13186e18L 0x6f7515bc android.view.ContextThemeWrapper 0
+Address 0x13186e20L 0x6f75085c android.app.Activity 0
+Address 0x13186e28L 0x6f75089c android.app.Activity 0
+Address 0x13186e30L 0x6f7508dc android.app.Activity 0
+Address 0x13186e38L 0x6f75093c android.app.Activity 0
+Address 0x13186e40L 0x6f75097c android.app.Activity 0
+Address 0x13186e48L 0x6f7509bc android.app.Activity 0
+Address 0x13186e50L 0x6f7509fc android.app.Activity 0
+Address 0x13186e58L 0x6f750a3c android.app.Activity 0
+Address 0x13186e60L 0x6f750a7c android.app.Activity 0
+Address 0x13186e68L 0x6f750abc android.app.Activity 0
+Address 0x13186e70L 0x6f750afc android.app.Activity 0
+Address 0x13186e78L 0x6f750b3c android.app.Activity 0
+Address 0x13186e80L 0x6f750b7c android.app.Activity 0
+Address 0x13186e88L 0x6f750bbc android.app.Activity 0
+Address 0x13186e90L 0x6f750bfc android.app.Activity 0
+Address 0x13186e98L 0x6f750c3c android.app.Activity 0
+Address 0x13186ea0L 0x6f750c7c android.app.Activity 0
+Address 0x13186ea8L 0x6f750cbc android.app.Activity 0
+Address 0x13186eb0L 0x6f750cfc android.app.Activity 0
+Address 0x13186eb8L 0x6f750d3c android.app.Activity 0
+Address 0x13186ec0L 0x6f750d7c android.app.Activity 0
+Address 0x13186ec8L 0x6f750ddc android.app.Activity 0
+Address 0x13186ed0L 0x6f750e1c android.app.Activity 0
+Address 0x13186ed8L 0x6f750e5c android.app.Activity 0
+Address 0x13186ee0L 0x6f750e9c android.app.Activity 0
+Address 0x13186ee8L 0x6f750edc android.app.Activity 0
+Address 0x13186ef0L 0x6f750f1c android.app.Activity 0
+Address 0x13186ef8L 0x6f750f5c android.app.Activity 0
+Address 0x13186f00L 0x6f750f9c android.app.Activity 0
+Address 0x13186f08L 0x6f750fdc android.app.Activity 0
+Address 0x13186f10L 0x6f75103c android.app.Activity 0
+Address 0x13186f18L 0x6f75107c android.app.Activity 0
+Address 0x13186f20L 0x6f7510bc android.app.Activity 0
+Address 0x13186f28L 0x6f75111c android.app.Activity 0
+Address 0x13186f30L 0x6f75115c android.app.Activity 0
+Address 0x13186f38L 0x6f75119c android.app.Activity 0
+Address 0x13186f40L 0x6f7511dc android.app.Activity 0
+Address 0x13186f48L 0x6f75121c android.app.Activity 0
+Address 0x13186f50L 0x6f75125c android.app.Activity 0
+Address 0x13186f58L 0x6f75129c android.app.Activity 0
+Address 0x13186f60L 0x6f7512dc android.app.Activity 0
+Address 0x13186f68L 0x6f75131c android.app.Activity 0
+Address 0x13186f70L 0x6f75135c android.app.Activity 0
+Address 0x13186f78L 0x6f75139c android.app.Activity 0
+Address 0x13186f80L 0x6f7513dc android.app.Activity 0
+Address 0x13186f88L 0x6f75141c android.app.Activity 0
+Address 0x13186f90L 0x6f75145c android.app.Activity 0
+Address 0x13186f98L 0x6f75149c android.app.Activity 0
+Address 0x13186fa0L 0x6f7514dc android.app.Activity 0
+Address 0x13186fa8L 0x6f75151c android.app.Activity 0
+Address 0x13186fb0L 0x6f75155c android.app.Activity 0
+Address 0x13186fb8L 0xf25a93ac android.app.Activity 0
+Address 0x13186fc0L 0x6f7515fc android.app.Activity 0
+Address 0x13186fc8L 0x6f75163c android.app.Activity 0
+Address 0x13186fd0L 0x6f75167c android.app.Activity 0
+Address 0x13186fd8L 0x6f7516bc android.app.Activity 0
+Address 0x13186fe0L 0xf25a93ec android.app.Activity 0
+Address 0x13186fe8L 0x6f75173c android.app.Activity 0
+Address 0x13186ff0L 0x6f75177c android.app.Activity 0
+Address 0x13186ff8L 0x6f7517bc android.app.Activity 0
+Address 0x13187000L 0x6f7517fc android.app.Activity 0
+Address 0x13187008L 0x6f75183c android.app.Activity 0
+Address 0x13187010L 0x6f75187c android.app.Activity 0
+Address 0x13187018L 0x6f7518bc Cannot Be Resolved 0
+Address 0x13187020L 0x6f7518fc android.app.Activity 0
+Address 0x13187028L 0x6f75193c android.app.Activity 0
+Address 0x13187030L 0x6f75197c android.app.Activity 0
+Address 0x13187038L 0x6f7519bc android.app.Activity 0
+Address 0x13187040L 0x6f7519fc android.app.Activity 0
+Address 0x13187048L 0x6f751a3c android.app.Activity 0
+Address 0x13187050L 0x6f751a7c android.app.Activity 0
+Address 0x13187058L 0x6f751abc android.app.Activity 0
+Address 0x13187060L 0x6f751afc android.app.Activity 0
+Address 0x13187068L 0x6f751b3c android.app.Activity 0
+Address 0x13187070L 0x6f751b7c android.app.Activity 0
+Address 0x13187078L 0x6f751bbc Cannot Be Resolved 0
+Address 0x13187080L 0x6f751bfc android.app.Activity 0
+Address 0x13187088L 0x6f751c3c android.app.Activity 0
+Address 0x13187090L 0x6f751c7c android.app.Activity 0
+Address 0x13187098L 0x6f751cbc android.app.Activity 0
+Address 0x131870a0L 0x6f751cfc android.app.Activity 0
+Address 0x131870a8L 0x6f751d3c android.app.Activity 0
+Address 0x131870b0L 0x6f751d7c android.app.Activity 0
+Address 0x131870b8L 0x6f751dbc android.app.Activity 0
+Address 0x131870c0L 0xf25a9214 android.app.Activity 0
+Address 0x131870c8L 0x6f751e3c android.app.Activity 0
+Address 0x131870d0L 0x6f751e7c android.app.Activity 0
+Address 0x131870d8L 0x6f751ebc android.app.Activity 0
+Address 0x131870e0L 0x6f751efc android.app.Activity 0
+Address 0x131870e8L 0x6f751f3c android.app.Activity 0
+Address 0x131870f0L 0x6f751f7c android.app.Activity 0
+Address 0x131870f8L 0x6f751fbc android.app.Activity 0
+Address 0x13187100L 0x6f751ffc android.app.Activity 0
+Address 0x13187108L 0x6f75203c android.app.Activity 0
+Address 0x13187110L 0x6f75207c android.app.Activity 0
+Address 0x13187118L 0x6f7520bc android.app.Activity 0
+Address 0x13187120L 0x6f7520fc android.app.Activity 0
+Address 0x13187128L 0x6f75213c android.app.Activity 0
+Address 0x13187130L 0x6f75217c android.app.Activity 0
+Address 0x13187138L 0x6f7521bc android.app.Activity 0
+Address 0x13187140L 0x6f7521fc android.app.Activity 0
+Address 0x13187148L 0x6f75223c android.app.Activity 0
+Address 0x13187150L 0x6f75227c android.app.Activity 0
+Address 0x13187158L 0x6f7522bc android.app.Activity 0
+Address 0x13187160L 0x6f7522fc android.app.Activity 0
+Address 0x13187168L 0x6f75233c android.app.Activity 0
+Address 0x13187170L 0x6f75237c android.app.Activity 0
+Address 0x13187178L 0x6f7523bc android.app.Activity 0
+Address 0x13187180L 0x6f7523fc android.app.Activity 0
+Address 0x13187188L 0x6f75243c android.app.Activity 0
+Address 0x13187190L 0x6f75247c android.app.Activity 0
+Address 0x13187198L 0x6f7524bc android.app.Activity 0
+Address 0x131871a0L 0x6f7524fc android.app.Activity 0
+Address 0x131871a8L 0x6f75253c android.app.Activity 0
+Address 0x131871b0L 0x6f75257c android.app.Activity 0
+Address 0x131871b8L 0x6f7525bc android.app.Activity 0
+Address 0x131871c0L 0x6f7525fc android.app.Activity 0
+Address 0x131871c8L 0x6f75263c android.app.Activity 0
+Address 0x131871d0L 0x6f75267c android.app.Activity 0
+Address 0x131871d8L 0x6f7526bc android.app.Activity 0
+Address 0x131871e0L 0x6f7526fc android.app.Activity 0
+Address 0x131871e8L 0x6f75273c android.app.Activity 0
+Address 0x131871f0L 0x6f75277c android.app.Activity 0
+Address 0x131871f8L 0x6f7527bc android.app.Activity 0
+Address 0x13187200L 0x6f7527fc android.app.Activity 0
+Address 0x13187208L 0x6f75283c android.app.Activity 0
+Address 0x13187210L 0x6f75289c android.app.Activity 0
+Address 0x13187218L 0x6f7528dc android.app.Activity 0
+Address 0x13187220L 0x6f75291c android.app.Activity 0
+Address 0x13187228L 0x6f75295c android.app.Activity 0
+Address 0x13187230L 0x6f75299c android.app.Activity 0
+Address 0x13187238L 0x6f7529dc android.app.Activity 0
+Address 0x13187240L 0x6f752a1c android.app.Activity 0
+Address 0x13187248L 0x6f752a5c android.app.Activity 0
+Address 0x13187250L 0x6f752b5c android.app.Activity 0
+Address 0x13187258L 0x6f752b9c android.app.Activity 0
+Address 0x13187260L 0x6f752bfc android.app.Activity 0
+Address 0x13187268L 0x6f752c3c android.app.Activity 0
+Address 0x13187270L 0x6f752c7c android.app.Activity 0
+Address 0x13187278L 0x6f752cbc android.app.Activity 0
+Address 0x13187280L 0x6f752d3c android.app.Activity 0
+Address 0x13187288L 0x6f752d7c android.app.Activity 0
+Address 0x13187290L 0x6f752dbc android.app.Activity 0
+Address 0x13187298L 0x6f752dfc android.app.Activity 0
+Address 0x131872a0L 0x6f752e3c android.app.Activity 0
+Address 0x131872a8L 0x6f752e7c android.app.Activity 0
+Address 0x131872b0L 0x6f752ebc android.app.Activity 0
+Address 0x131872b8L 0x6f752efc android.app.Activity 0
+Address 0x131872c0L 0x6f752f3c android.app.Activity 0
+Address 0x131872c8L 0x6f752f7c android.app.Activity 0
+Address 0x131872d0L 0xf25a93cc Cannot Be Resolved 0
+Address 0x131872d8L 0x0 java.lang.String 8
+Address 0x131872e0L 0x87ed9d1e java.lang.Class - java.lang.Class 2044
+Address 0x13187ae0L 0x0 java.lang.Class - java.lang.Class 176
+Address 0x13187b90L 0x0 java.lang.Class - java.lang.Class 2044
+Address 0x13188390L 0x0 java.lang.Class - java.lang.DexCache 92
+Address 0x131883f0L 0x0 java.lang.Class - [Ljava.lang.Object; 92
+Address 0x13188450L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x13188468L 0x0 java.lang.Class - [I 16
+Address 0x13188478L 0x0 java.lang.Class - [Ljava.lang.Object; 92
+Address 0x131884d8L 0x0 java.lang.Class - java.lang.String 64
+Address 0x13188518L 0x0 java.lang.Class - [Ljava.lang.Object; 100
+Address 0x13188580L 0x0 java.lang.Class - java.lang.String 62
+Address 0x131885c0L 0x0 java.lang.Class - [I 16
+Address 0x131885d0L 0x0 java.lang.Class - [Ljava.lang.Object; 28
+Address 0x131885f0L 0x0 java.lang.Class - [Ldalvik.system.DexPathList$Element; 16
+Address 0x13188600L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13188618L 0x0 java.lang.Class - [Ldalvik.system.DexPathList$NativeLibraryElement; 20
+Address 0x13188630L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13188648L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13188680L 0x0 java.lang.Class - java.io.File 24
+Address 0x13188698L 0x0 java.lang.Class - java.io.File 24
+Address 0x131886b0L 0x0 java.lang.Class - java.lang.String 34
+Address 0x131886d8L 0x0 java.lang.Class - java.lang.String 27
+Address 0x131886f8L 0x0 java.lang.Class - dalvik.system.DexPathList$NativeLibraryElement 21
+Address 0x13188710L 0x0 java.lang.Class - dalvik.system.DexPathList$NativeLibraryElement 21
+Address 0x13188728L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13188760L 0x0 java.lang.Class - java.io.File 24
+Address 0x13188778L 0x0 java.lang.Class - java.lang.String 81
+Address 0x131887d0L 0x0 java.lang.Class - dalvik.system.DexPathList$Element 21
+Address 0x131887e8L 0x0 java.lang.Class - dalvik.system.DexFile 20
+Address 0x13188800L 0x0 java.lang.Class - java.io.File 24
+Address 0x13188818L 0x0 java.lang.Class - java.lang.String 82
+Address 0x13188870L 0x0 java.lang.Class - [J 28
+Address 0x13188890L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131888b0L 0x0 java.lang.Class - android.view.accessibility.AccessibilityManager$MyCallback 12
+Address 0x131888c0L 0x0 java.lang.Class - android.os.Handler 25
+Address 0x131888e0L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13188900L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13188908L 0x0 java.lang.Class - android.view.accessibility.IAccessibilityManager$Stub$Proxy 12
+Address 0x13188918L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13188938L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13188958L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13188978L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x131889a8L 0x0 java.lang.Class - [I 28
+Address 0x131889c8L 0x8a8c593d java.lang.Class - android.view.ViewRootImpl$HighContrastTextManager 12
+Address 0x131889d8L 0x0 java.lang.Class - android.view.ViewRootImpl$ViewRootHandler 32
+Address 0x131889f8L 0x0 java.lang.Class - android.view.ViewRootImpl 506
+Address 0x13188bf8L 0x8ed6da94 java.lang.Class - android.view.ViewRootImpl$AccessibilityInteractionConnectionManager 12
+Address 0x13188c08L 0x0 java.lang.Class - android.app.-$Lambda$9I5WEMsoBc7l4QrNqZ4wx59yuHU 12
+Address 0x13188c18L 0x0 java.lang.Class - android.view.View$AttachInfo 254
+Address 0x13188d18L 0x0 java.lang.Class - android.media.AudioManager 80
+Address 0x13188d68L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13188d90L 0x0 java.lang.Class - android.view.ViewRootImpl$ConsumeBatchedInputImmediatelyRunnable 12
+Address 0x13188da0L 0x0 java.lang.Class - android.view.ViewRootImpl$ConsumeBatchedInputRunnable 12
+Address 0x13188db0L 0x0 java.lang.Class - com.android.internal.policy.DecorContext 44
+Address 0x13188de0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13188df8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13188e10L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13188e28L 0x0 java.lang.Class - android.view.Display 73
+Address 0x13188e78L 0x0 java.lang.Class - android.view.ViewRootImpl$1 12
+Address 0x13188e88L 0x0 java.lang.Class - android.hardware.display.DisplayManager 28
+Address 0x13188ea8L 0x0 java.lang.Class - android.graphics.PointF 16
+Address 0x13188eb8L 0x0 java.lang.Class - com.android.internal.policy.PhoneFallbackEventHandler 32
+Address 0x13188ed8L 0x0 java.lang.Class - android.view.ViewRootImpl$NativePreImeInputStage 40
+Address 0x13188f00L 0x0 java.lang.Class - android.view.ViewRootImpl$EarlyPostImeInputStage 20
+Address 0x13188f18L 0x0 java.lang.Class - android.view.InputChannel 16
+Address 0x13188f28L 0x0 java.lang.Class - android.view.ViewRootImpl$WindowInputEventReceiver 36
+Address 0x13188f50L 0x0 java.lang.Class - android.view.ViewRootImpl$InvalidateOnAnimationRunnable 29
+Address 0x13188f70L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13188fe0L 0x0 java.lang.Class - android.view.ViewTreeObserver$InternalInsetsInfo 24
+Address 0x13188ff8L 0x0 java.lang.Class - android.util.MergedConfiguration 20
+Address 0x13189010L 0x0 java.lang.Class - android.graphics.PointF 16
+Address 0x13189020L 0x0 java.lang.Class - android.view.WindowInsets 29
+Address 0x13189040L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13189058L 0x0 java.lang.Class - android.view.WindowLeaked 28
+Address 0x13189078L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189090L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131890a8L 0x0 java.lang.Class - java.lang.String 96
+Address 0x13189108L 0x0 java.lang.Class - android.util.MergedConfiguration 20
+Address 0x13189120L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189138L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189150L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189168L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189180L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x13189190L 0x0 java.lang.Class - android.view.ViewRootImpl$QueuedInputEvent 24
+Address 0x131891a8L 0x0 java.lang.Class - android.view.Surface 53
+Address 0x131891e0L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticInputStage 36
+Address 0x13189208L 0x0 java.lang.Class - java.lang.String 42
+Address 0x13189238L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189250L 0x0 java.lang.Class - [I 20
+Address 0x13189268L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13189290L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x131892a0L 0x0 java.lang.Class - android.view.ViewRootImpl$TraversalRunnable 12
+Address 0x131892b0L 0x0 java.lang.Class - com.android.internal.policy.DecorView 855
+Address 0x13189608L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189620L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189638L 0x0 java.lang.Class - android.view.WindowManager$LayoutParams 175
+Address 0x131896e8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13189700L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13189718L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13189750L 0x0 java.lang.Class - java.lang.String 26
+Address 0x13189770L 0x0 java.lang.Class - java.lang.String 85
+Address 0x131897c8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131897e0L 0x80c787fc java.lang.Class - android.os.BinderProxy 32
+Address 0x13189800L 0x0 java.lang.Class - com.android.internal.widget.BackgroundFallback 12
+Address 0x13189810L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189828L 0x0 java.lang.Class - android.widget.LinearLayout 672
+Address 0x13189ac8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189ae0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189af8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189b10L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189b28L 0x0 java.lang.Class - android.view.animation.PathInterpolator 20
+Address 0x13189b40L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x13189ba0L 0x0 java.lang.Class - java.lang.String 27
+Address 0x13189bc0L 0x0 java.lang.Class - com.android.internal.policy.DecorView$ColorViewState 26
+Address 0x13189be0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13189bf8L 0x0 java.lang.Class - android.graphics.drawable.StateListDrawable 97
+Address 0x13189c60L 0x0 java.lang.Class - android.view.animation.PathInterpolator 20
+Address 0x13189c78L 0x0 java.lang.Class - com.android.internal.policy.DecorView$ColorViewState 26
+Address 0x13189c98L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x13189cf8L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow 361
+Address 0x13189e68L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13189e80L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x13189ec0L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x13189ed0L 0x0 java.lang.Class - [F 20
+Address 0x13189ee8L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13189f00L 0x0 java.lang.Class - android.view.WindowManager$LayoutParams 175
+Address 0x13189fb0L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x13189fc8L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13189fe0L 0x0 java.lang.Class - android.content.res.Resources 36
+Address 0x1318a008L 0x0 java.lang.Class - android.content.res.ResourcesImpl 73
+Address 0x1318a058L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318a070L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318a098L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318a0a0L 0x0 java.lang.Class - android.util.Pools$SynchronizedPool 20
+Address 0x1318a0b8L 0x0 java.lang.Class - [Ljava.lang.Object; 32
+Address 0x1318a0d8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318a0e0L 0x0 java.lang.Class - android.content.res.TypedArray 61
+Address 0x1318a120L 0x0 java.lang.Class - android.util.DisplayMetrics 64
+Address 0x1318a160L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318a188L 0x0 java.lang.Class - java.lang.String 44
+Address 0x1318a1b8L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x1318a1f0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a208L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a220L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a238L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318a240L 0x0 java.lang.Class - android.content.res.ConfigurationBoundResourceCache 20
+Address 0x1318a258L 0x0 java.lang.Class - android.content.res.AssetManager 37
+Address 0x1318a280L 0x0 java.lang.Class - [I 28
+Address 0x1318a2a0L 0x0 java.lang.Class - [Ljava.lang.String; 16
+Address 0x1318a2b0L 0x1318aa98 java.lang.String 8
+Address 0x1318a2b8L 0x0 java.lang.String 8
+Address 0x1318a2c0L 0x0 java.lang.Class - [Landroid.content.res.XmlBlock; 28
+Address 0x1318a2e0L 0x0 java.lang.Class - android.content.res.DrawableCache 20
+Address 0x1318a2f8L 0x0 java.lang.Class - android.content.res.ConfigurationBoundResourceCache 20
+Address 0x1318a310L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318a380L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x1318a390L 0x0 java.lang.Class - android.content.res.DrawableCache 20
+Address 0x1318a3a8L 0x0 java.lang.Class - android.content.res.ConfigurationBoundResourceCache 20
+Address 0x1318a3c0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318a430L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318a448L 0x0 java.lang.Class - android.util.LongSparseArray 21
+Address 0x1318a460L 0x0 java.lang.Class - [J 76
+Address 0x1318a4b0L 0x0 java.lang.Class - [Ljava.lang.Object; 48
+Address 0x1318a4e0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a4f8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a510L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a528L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a540L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a558L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318a5c8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318a5e0L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x1318a5f0L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x1318a600L 0x0 java.lang.Class - java.lang.String 21
+Address 0x1318a618L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318a630L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318a650L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x1318a668L 0x0 java.lang.Class - [I 16
+Address 0x1318a678L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x1318a690L 0x0 java.lang.Class - android.util.LongSparseArray 21
+Address 0x1318a6a8L 0x0 java.lang.Class - [J 20
+Address 0x1318a6c0L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x1318a6d0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a6e8L 0x0 java.lang.Class - [Z 16
+Address 0x1318a6f8L 0x0 java.lang.Class - [I 28
+Address 0x1318a718L 0x0 java.lang.Class - android.util.LongSparseArray 21
+Address 0x1318a730L 0x0 java.lang.Class - [J 20
+Address 0x1318a748L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x1318a758L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318a770L 0x84f0de01 java.lang.Class - android.content.res.XmlBlock 29
+Address 0x1318a790L 0x82f874da java.lang.Class - android.content.res.XmlBlock 29
+Address 0x1318a7b0L 0x82005d0b java.lang.Class - android.content.res.XmlBlock 29
+Address 0x1318a7d0L 0x880327e8 java.lang.Class - android.content.res.XmlBlock 29
+Address 0x1318a7f0L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318a810L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 76
+Address 0x1318a860L 0x0 java.lang.Class - java.lang.String 27
+Address 0x1318a880L 0x0 java.lang.Class - java.lang.String 24
+Address 0x1318a898L 0x0 java.lang.Class - java.lang.String 28
+Address 0x1318a8b8L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318a8d8L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 40
+Address 0x1318a900L 0x0 java.lang.Class - java.lang.String 32
+Address 0x1318a920L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318a940L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 40
+Address 0x1318a968L 0x0 java.lang.Class - java.lang.String 32
+Address 0x1318a988L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318a9a8L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 96
+Address 0x1318aa08L 0x0 java.lang.Class - java.lang.String 28
+Address 0x1318aa28L 0x0 java.lang.Class - java.lang.String 27
+Address 0x1318aa48L 0x0 java.lang.Class - java.lang.String 24
+Address 0x1318aa60L 0x0 java.lang.Class - java.lang.String 55
+Address 0x1318aa98L 0x0 java.lang.Class - java.lang.String 55
+Address 0x1318aad0L 0x0 java.lang.Class - java.lang.String 44
+Address 0x1318ab00L 0x0 java.lang.Class - [J 28
+Address 0x1318ab20L 0x0 java.lang.Class - [Landroid.content.res.StringBlock; 20
+Address 0x1318ab38L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318ab60L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318ab80L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318aba0L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x1318abb8L 0x0 java.lang.Class - [I 56
+Address 0x1318abf0L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x1318ac28L 0x0 java.lang.Class - java.lang.String 46
+Address 0x1318ac58L 0x0 java.lang.Class - java.lang.String 47
+Address 0x1318ac88L 0x0 java.lang.Class - java.lang.String 51
+Address 0x1318acc0L 0x0 java.lang.Class - java.lang.String 49
+Address 0x1318acf8L 0x0 java.lang.Class - java.lang.String 45
+Address 0x1318ad28L 0x0 java.lang.Class - java.lang.String 49
+Address 0x1318ad60L 0x0 java.lang.Class - java.lang.String 26
+Address 0x1318ad80L 0x0 java.lang.Class - java.lang.String 28
+Address 0x1318ada0L 0x0 java.lang.Class - java.lang.String 28
+Address 0x1318adc0L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x1318add8L 0x0 java.lang.Class - [I 56
+Address 0x1318ae10L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x1318ae48L 0x0 java.lang.Class - java.lang.String 49
+Address 0x1318ae80L 0x0 java.lang.Class - java.lang.String 64
+Address 0x1318aec0L 0x0 java.lang.Class - [J 28
+Address 0x1318aee0L 0x0 java.lang.Class - [J 28
+Address 0x1318af00L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318af18L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x1318af28L 0x0 java.lang.Class - android.widget.FrameLayout 636
+Address 0x1318b1a8L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow$PhoneWindowMenuCallback 17
+Address 0x1318b1c0L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b1e8L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b210L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b238L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b260L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow$1 12
+Address 0x1318b270L 0x0 java.lang.Class - com.android.internal.policy.PhoneLayoutInflater 41
+Address 0x1318b2a0L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b2c8L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b2f0L 0x87b56283 java.lang.Class - com.parseapp.snapphoto.activities.MenuActivity 236
+Address 0x1318b3e0L 0x0 java.lang.Class - android.view.WindowManagerImpl 24
+Address 0x1318b3f8L 0x0 java.lang.Class - android.content.res.TypedArray 61
+Address 0x1318b438L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x1318b448L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318b470L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x1318b490L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x1318b4a8L 0x0 java.lang.Class - [Z 16
+Address 0x1318b4b8L 0x0 java.lang.Class - [I 28
+Address 0x1318b4d8L 0x0 java.lang.Class - android.app.ContextImpl 116
+Address 0x1318b550L 0x0 java.lang.Class - android.app.ContextImpl$ApplicationContentResolver 32
+Address 0x1318b570L 0x0 java.lang.Class - android.app.LoadedApk 115
+Address 0x1318b5e8L 0x0 java.lang.Class - android.app.ApplicationPackageManager 44
+Address 0x1318b618L 0x0 java.lang.Class - [Ljava.lang.Object; 288
+Address 0x1318b738L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318b740L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x1318b750L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x1318b770L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x1318b788L 0x0 java.lang.Class - [Z 16
+Address 0x1318b798L 0x0 java.lang.Class - [I 28
+Address 0x1318b7b8L 0x0 java.lang.Class - com.android.internal.policy.PhoneLayoutInflater 41
+Address 0x1318b7e8L 0x0 java.lang.Class - android.view.WindowManagerImpl 24
+Address 0x1318b800L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x1318b818L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318b830L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318b838L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318b858L 0x0 java.lang.Class - android.content.pm.ApplicationInfo 234
+Address 0x1318b948L 0x0 java.lang.Class - java.io.File 24
+Address 0x1318b960L 0x0 java.lang.Class - java.lang.String 51
+Address 0x1318b998L 0x0 java.lang.Class - java.io.File 24
+Address 0x1318b9b0L 0x0 java.lang.Class - java.io.File 24
+Address 0x1318b9c8L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x1318b9d8L 0x0 java.lang.Class - java.lang.String 81
+Address 0x1318ba30L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318ba50L 0x0 java.lang.Class - android.content.res.Resources 36
+Address 0x1318ba78L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318ba98L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318bab8L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318bad8L 0x0 java.lang.Class - android.content.res.ResourcesImpl 73
+Address 0x1318bb28L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318bb40L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318bb68L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318bb70L 0x0 java.lang.Class - android.util.Pools$SynchronizedPool 20
+Address 0x1318bb88L 0x0 java.lang.Class - [Ljava.lang.Object; 32
+Address 0x1318bba8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318bbb0L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x1318bbe8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318bc00L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318bc08L 0x0 java.lang.Class - android.content.res.ConfigurationBoundResourceCache 20
+Address 0x1318bc20L 0x0 java.lang.Class - android.content.res.AssetManager 37
+Address 0x1318bc48L 0x0 java.lang.Class - [I 28
+Address 0x1318bc68L 0x0 java.lang.Class - [Ljava.lang.String; 16
+Address 0x1318bc88L 0x0 java.lang.Class - [Landroid.content.res.XmlBlock; 28
+Address 0x1318bca8L 0x0 java.lang.Class - android.content.res.DrawableCache 20
+Address 0x1318bcc0L 0x0 java.lang.Class - android.content.res.ConfigurationBoundResourceCache 20
+Address 0x1318bcd8L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318bd48L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x1318bd58L 0x0 java.lang.Class - android.content.res.DrawableCache 20
+Address 0x1318bd70L 0x0 java.lang.Class - android.util.DisplayMetrics 64
+Address 0x1318bdb0L 0x0 java.lang.Class - android.content.res.ConfigurationBoundResourceCache 20
+Address 0x1318bdc8L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318be38L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318be50L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318bec0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318bed8L 0x0 java.lang.Class - [J 28
+Address 0x1318bef8L 0x0 java.lang.Class - [Landroid.content.res.StringBlock; 20
+Address 0x1318bf10L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x1318bf38L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318bf58L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x1318bf78L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x1318bf90L 0x0 java.lang.Class - [I 56
+Address 0x1318bfc8L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x1318c000L 0x0 java.lang.Class - java.lang.String 54
+Address 0x1318c038L 0x0 java.lang.Class - java.lang.String 51
+Address 0x1318c070L 0x0 java.lang.Class - java.lang.String 61
+Address 0x1318c0b0L 0x0 java.lang.Class - java.lang.String 77
+Address 0x1318c100L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318c128L 0x0 java.lang.Class - java.lang.String 82
+Address 0x1318c180L 0x0 java.lang.Class - java.lang.String 73
+Address 0x1318c1d0L 0x0 java.lang.Class - java.lang.String 73
+Address 0x1318c220L 0x0 java.lang.Class - java.lang.String 43
+Address 0x1318c250L 0x0 java.lang.Class - java.lang.String 25
+Address 0x1318c270L 0x0 java.lang.Class - java.util.UUID 24
+Address 0x1318c288L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318c2b0L 0x0 java.lang.Class - java.lang.String 61
+Address 0x1318c2f0L 0x0 java.lang.Class - java.util.Random 24
+Address 0x1318c308L 0x0 java.lang.Class - java.util.concurrent.atomic.AtomicLong 16
+Address 0x1318c318L 0x0 java.lang.Class - android.widget.ImageButton 553
+Address 0x1318c548L 0x0 java.lang.Class - android.widget.ImageButton 553
+Address 0x1318c778L 0x0 java.lang.Class - android.content.pm.ActivityInfo 152
+Address 0x1318c810L 0x0 java.lang.Class - android.app.ActivityTransitionState 51
+Address 0x1318c848L 0x0 java.lang.Class - android.content.ComponentName 16
+Address 0x1318c858L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318c8c8L 0x0 java.lang.Class - android.app.FragmentController 12
+Address 0x1318c8d8L 0x0 java.lang.Class - android.os.Handler 25
+Address 0x1318c8f8L 0x0 java.lang.Class - android.os.StrictMode$InstanceTracker 12
+Address 0x1318c908L 0x0 java.lang.Class - android.app.Instrumentation 65
+Address 0x1318c950L 0x0 java.lang.Class - android.content.Intent 60
+Address 0x1318c990L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318c9a8L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318c9d0L 0x0 java.lang.Class - android.app.ActivityManager$TaskDescription 36
+Address 0x1318c9f8L 0x0 java.lang.Class - android.os.Bundle 24
+Address 0x1318ca10L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318ca18L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318ca38L 0x0 java.lang.Class - android.app.Activity$HostCallbacks 44
+Address 0x1318ca68L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x1318ca88L 0x0 java.lang.Class - android.app.FragmentManagerImpl 110
+Address 0x1318caf8L 0x0 java.lang.Class - android.app.FragmentManagerImpl$1 12
+Address 0x1318cb08L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318cb20L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318cb38L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318cb50L 0x0 java.lang.Class - java.lang.String 62
+Address 0x1318cb90L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318cbb8L 0x0 java.lang.Class - java.lang.String 62
+Address 0x1318cbf8L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318cc20L 0x0 java.lang.Class - android.content.pm.ApplicationInfo 234
+Address 0x1318cd10L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318cd38L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318cd60L 0x0 java.lang.Class - java.lang.String 61
+Address 0x1318cda0L 0x0 java.lang.Class - java.lang.String 51
+Address 0x1318cdd8L 0x0 java.lang.Class - java.lang.String 51
+Address 0x1318ce10L 0x0 java.lang.Class - java.lang.String 54
+Address 0x1318ce48L 0x0 java.lang.Class - java.lang.String 81
+Address 0x1318cea0L 0x0 java.lang.Class - java.lang.String 77
+Address 0x1318cef0L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318cf18L 0x0 java.lang.Class - java.lang.String 82
+Address 0x1318cf70L 0x0 java.lang.Class - java.lang.String 73
+Address 0x1318cfc0L 0x0 java.lang.Class - java.lang.String 73
+Address 0x1318d010L 0x0 java.lang.Class - java.lang.String 43
+Address 0x1318d040L 0x0 java.lang.Class - java.lang.String 25
+Address 0x1318d060L 0x0 java.lang.Class - java.lang.String 82
+Address 0x1318d0b8L 0x0 java.lang.Class - java.util.UUID 24
+Address 0x1318d0d0L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318d0f8L 0x0 java.lang.Class - java.lang.String 61
+Address 0x1318d138L 0x0 java.lang.Class - java.lang.String 38
+Address 0x1318d160L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x1318d170L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable 72
+Address 0x1318d1b8L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x1318d1d0L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x1318d1e8L 0x0 java.lang.Class - android.graphics.drawable.ColorDrawable 52
+Address 0x1318d220L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318d238L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x1318d270L 0x0 java.lang.Class - android.view.View$ListenerInfo 72
+Address 0x1318d2b8L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318d2d0L 0x0 java.lang.Class - android.widget.LinearLayout 672
+Address 0x1318d570L 0x0 java.lang.Class - android.view.View$PerformClick 12
+Address 0x1318d580L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318d598L 0x0 java.lang.Class - android.view.HandlerActionQueue 16
+Address 0x1318d5a8L 0x0 java.lang.Class - android.view.View$UnsetPressedState 12
+Address 0x1318d5b8L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x1318d5f8L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x1318d608L 0x0 java.lang.Class - [F 20
+Address 0x1318d620L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable 72
+Address 0x1318d668L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318d680L 0x0 java.lang.Class - android.widget.FrameLayout$LayoutParams 52
+Address 0x1318d6b8L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318d6d0L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318d6e8L 0x0 java.lang.Class - [J 28
+Address 0x1318d708L 0x0 java.lang.Class - [J 28
+Address 0x1318d728L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318d740L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318d758L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable$BitmapState 58
+Address 0x1318d798L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318d7b0L 0x0 java.lang.Class - android.graphics.Bitmap 43
+Address 0x1318d7e0L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318d840L 0x0 java.lang.Class - android.graphics.BitmapShader 36
+Address 0x1318d868L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x1318d878L 0x0 java.lang.Class - android.widget.TextView 790
+Address 0x1318db90L 0x0 java.lang.Class - android.widget.TextView 790
+Address 0x1318dea8L 0x0 java.lang.Class - android.text.BoringLayout$Metrics 32
+Address 0x1318dec8L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318df28L 0x0 java.lang.Class - android.text.BoringLayout 88
+Address 0x1318df80L 0x0 java.lang.Class - android.content.res.ColorStateList 37
+Address 0x1318dfa8L 0x0 java.lang.Class - android.text.TextPaint 120
+Address 0x1318e020L 0x0 java.lang.Class - [I 24
+Address 0x1318e038L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x1318e070L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318e088L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318e0a0L 0x0 java.lang.Class - [J 28
+Address 0x1318e0c0L 0x0 java.lang.Class - [J 28
+Address 0x1318e0e0L 0x0 java.lang.Class - [I 28
+Address 0x1318e100L 0x0 java.lang.Class - [I 16
+Address 0x1318e110L 0x0 java.lang.Class - android.text.BoringLayout$Metrics 32
+Address 0x1318e130L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318e190L 0x0 java.lang.Class - android.text.BoringLayout 88
+Address 0x1318e1e8L 0x0 java.lang.Class - android.text.TextPaint 120
+Address 0x1318e260L 0x0 java.lang.Class - [I 24
+Address 0x1318e278L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x1318e2b0L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318e2c8L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318e2e0L 0x0 java.lang.Class - [J 28
+Address 0x1318e300L 0x0 java.lang.Class - [J 28
+Address 0x1318e320L 0x0 java.lang.Class - [I 28
+Address 0x1318e340L 0x0 java.lang.Class - [J 28
+Address 0x1318e360L 0x0 java.lang.Class - [J 28
+Address 0x1318e380L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318e398L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318e3b0L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318e410L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318e428L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318e440L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable$BitmapState 58
+Address 0x1318e480L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318e498L 0x0 java.lang.Class - android.graphics.Bitmap 43
+Address 0x1318e4c8L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318e528L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x1318e538L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable 72
+Address 0x1318e580L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x1318e598L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x1318e5b0L 0x0 java.lang.Class - android.graphics.drawable.ColorDrawable 52
+Address 0x1318e5e8L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318e600L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x1318e638L 0x0 java.lang.Class - android.view.View$ListenerInfo 72
+Address 0x1318e680L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318e698L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318e6b0L 0x0 java.lang.Class - [J 28
+Address 0x1318e6d0L 0x0 java.lang.Class - [J 28
+Address 0x1318e6f0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318e708L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318e720L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318e780L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318e798L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318e7b0L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable$BitmapState 58
+Address 0x1318e7f0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318e808L 0x0 java.lang.Class - android.graphics.Bitmap 43
+Address 0x1318e838L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318e898L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x1318e8b0L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318e8c8L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x1318e908L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x1318e918L 0x0 java.lang.Class - [F 20
+Address 0x1318e930L 0x0 java.lang.Class - android.view.View$ForegroundInfo 30
+Address 0x1318e950L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x1318e988L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318e9a0L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318e9b8L 0x0 java.lang.Class - [J 28
+Address 0x1318e9d8L 0x0 java.lang.Class - [J 28
+Address 0x1318e9f8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318ea10L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318ea28L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x1318ea38L 0x0 java.lang.Class - android.graphics.LinearGradient 64
+Address 0x1318ea78L 0x0 java.lang.Class - [I 24
+Address 0x1318ea90L 0x0 java.lang.Class - [F 24
+Address 0x1318eaa8L 0x0 java.lang.Class - [F 108
+Address 0x1318eb18L 0x0 java.lang.Class - [F 108
+Address 0x1318eb88L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318eba0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318ebb8L 0x0 java.lang.Class - android.graphics.drawable.DrawableContainer$BlockInvalidateCallback 12
+Address 0x1318ebc8L 0x0 java.lang.Class - android.graphics.drawable.GradientDrawable 88
+Address 0x1318ec20L 0x0 java.lang.Class - android.graphics.drawable.StateListDrawable$StateListState 112
+Address 0x1318ec90L 0x0 java.lang.Class - [Landroid.graphics.drawable.Drawable; 52
+Address 0x1318ecc8L 0x0 java.lang.Class - android.graphics.drawable.ColorDrawable 52
+Address 0x1318ed00L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318ed18L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318ed30L 0x0 java.lang.Class - android.graphics.drawable.ColorDrawable$ColorState 32
+Address 0x1318ed50L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318edb0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318edc8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x1318ede0L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x1318ee40L 0x0 java.lang.Class - android.graphics.drawable.GradientDrawable$GradientState 165
+Address 0x1318eee8L 0x0 java.lang.Class - android.graphics.Path 25
+Address 0x1318ef08L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x1318ef20L 0x0 java.lang.Class - android.graphics.LinearGradient 64
+Address 0x1318ef60L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x1318ef70L 0x0 java.lang.Class - android.graphics.LinearGradient 64
+Address 0x1318efb0L 0x0 java.lang.Class - [I 24
+Address 0x1318efc8L 0x0 java.lang.Class - [F 24
+Address 0x1318efe0L 0x0 java.lang.Class - [F 108
+Address 0x1318f050L 0x0 java.lang.Class - [F 108
+Address 0x1318f0c0L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x1318f100L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x1318f110L 0x0 java.lang.Class - [F 20
+Address 0x1318f128L 0x0 java.lang.Class - android.widget.FrameLayout$LayoutParams 52
+Address 0x1318f160L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x1318f178L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318f190L 0x0 java.lang.Class - [J 28
+Address 0x1318f1b0L 0x0 java.lang.Class - [J 28
+Address 0x1318f1d0L 0x0 java.lang.Class - android.view.ViewStub 476
+Address 0x1318f3b0L 0x0 java.lang.Class - com.android.internal.policy.PhoneLayoutInflater 41
+Address 0x1318f3e0L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x1318f418L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x1318f430L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x1318f448L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticJoystickHandler 48
+Address 0x1318f478L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticKeyboardHandler 12
+Address 0x1318f488L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticTouchNavigationHandler 112
+Address 0x1318f4f8L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticTrackballHandler 32
+Address 0x1318f518L 0x0 java.lang.Class - android.view.ViewRootImpl$TrackballAxis 36
+Address 0x1318f540L 0x0 java.lang.Class - android.view.ViewRootImpl$TrackballAxis 36
+Address 0x1318f568L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticTouchNavigationHandler$1 12
+Address 0x1318f578L 0x0 java.lang.Class - android.view.Surface$CompatibleCanvas 48
+Address 0x1318f5a8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318f5b0L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x1318f5c0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318f630L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318f6a0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318f710L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x1318f720L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x1318f730L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x1318f740L 0x0 java.lang.Class - [Ljava.lang.Object; 68
+Address 0x1318f788L 0x0 java.lang.Class - [I 116
+Address 0x1318f800L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318f818L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318f888L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318f8f8L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318f968L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318f980L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x1318f990L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x1318f9a0L 0x0 java.lang.Class - java.lang.String 21
+Address 0x1318f9b8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318f9d0L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x1318f9e0L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x1318f9f0L 0x0 java.lang.Class - java.lang.String 21
+Address 0x1318fa08L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318fa20L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318fa38L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x1318fa48L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318fa60L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318fa78L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318fa90L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318faa8L 0x0 java.lang.Class - android.util.SparseIntArray 20
+Address 0x1318fac0L 0x0 java.lang.Class - [I 56
+Address 0x1318faf8L 0x0 java.lang.Class - [I 56
+Address 0x1318fb30L 0x0 java.lang.Class - android.view.ViewRootImpl$NativePostImeInputStage 40
+Address 0x1318fb58L 0x0 java.lang.Class - android.view.ViewRootImpl$ViewPostImeInputStage 20
+Address 0x1318fb70L 0x0 java.lang.Class - java.lang.String 104
+Address 0x1318fbd8L 0x0 java.lang.Class - android.view.ViewRootImpl$ViewPreImeInputStage 20
+Address 0x1318fbf0L 0x0 java.lang.Class - java.lang.String 103
+Address 0x1318fc58L 0x0 java.lang.Class - android.view.ViewRootImpl$ImeInputStage 40
+Address 0x1318fc80L 0x0 java.lang.Class - java.lang.String 92
+Address 0x1318fce0L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x1318fcf8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x1318fd00L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x1318fd18L 0x0 java.lang.Class - [I 56
+Address 0x1318fd50L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x1318fd88L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x1318fd98L 0x0 java.lang.Class - android.view.DisplayInfo 152
+Address 0x1318fe30L 0x0 java.lang.Class - android.util.DisplayMetrics 64
+Address 0x1318fe70L 0x0 java.lang.Class - android.view.Display$HdrCapabilities 24
+Address 0x1318fe88L 0x0 java.lang.Class - java.lang.String 31
+Address 0x1318fea8L 0x0 java.lang.Class - [I 16
+Address 0x1318feb8L 0x0 java.lang.Class - [Landroid.view.Display$Mode; 16
+Address 0x1318fec8L 0x0 java.lang.Class - java.lang.String 23
+Address 0x1318fee0L 0x0 java.lang.Class - android.view.Display$Mode 24
+Address 0x1318fef8L 0x0 java.lang.Class - [I 12
+Address 0x1318ff08L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x1318ff78L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x1318ff90L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x1318ffa0L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x1318ffc0L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x1318ffd8L 0x0 java.lang.Class - [Z 16
+Address 0x1318ffe8L 0x0 java.lang.Class - [I 28
+Address 0x13190008L 0x0 java.lang.Class - android.media.AudioManager$1 28
+Address 0x13190028L 0x0 java.lang.Class - java.util.concurrent.ConcurrentHashMap 60
+Address 0x13190068L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13190088L 0x0 java.lang.Class - android.os.Binder 24
+Address 0x131900a0L 0x0 java.lang.Class - android.media.AudioManager$2 28
+Address 0x131900c0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x131900c8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131900e0L 0x0 java.lang.Class - android.media.AudioManager$3 28
+Address 0x13190100L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13190108L 0x0 java.lang.Class - android.media.AudioManager$ServiceEventHandlerDelegate 16
+Address 0x13190118L 0x0 java.lang.Class - android.media.AudioManager$ServiceEventHandlerDelegate$1 32
+Address 0x13190138L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13190150L 0x0 java.lang.Class - android.view.ViewTreeObserver$InternalInsetsInfo 24
+Address 0x13190168L 0x0 java.lang.Class - [I 20
+Address 0x13190180L 0x0 java.lang.Class - android.view.KeyEvent$DispatcherState 20
+Address 0x13190198L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131901b0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131901c8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131901e0L 0x0 java.lang.Class - android.graphics.Point 16
+Address 0x131901f0L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13190208L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13190220L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13190238L 0x0 java.lang.Class - android.view.ThreadedRenderer 74
+Address 0x13190288L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131902a0L 0x0 java.lang.Class - [I 20
+Address 0x131902b8L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x131902c8L 0x0 java.lang.Class - android.graphics.Outline 28
+Address 0x131902e8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13190300L 0x0 java.lang.Class - [F 20
+Address 0x13190318L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x13190330L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x13190348L 0x0 java.lang.Class - android.view.animation.Transformation 25
+Address 0x13190368L 0x0 java.lang.Class - [I 20
+Address 0x13190380L 0x0 java.lang.Class - android.view.ViewTreeObserver 55
+Address 0x131903b8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131903d0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131903e8L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x131903f8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13190410L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13190428L 0x0 java.lang.Class - [Ljava.lang.Object; 108
+Address 0x13190498L 0x0 java.lang.Class - android.util.SparseIntArray 20
+Address 0x131904b0L 0x0 java.lang.Class - [I 56
+Address 0x131904e8L 0x0 java.lang.Class - [I 56
+Address 0x13190520L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13190538L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x13190548L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13190560L 0x0 java.lang.Class - android.app.ActivityThread$ActivityClientRecord 131
+Address 0x131905e8L 0x0 java.lang.Class - android.content.res.CompatibilityInfo 24
+Address 0x13190600L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13190670L 0x0 java.lang.Class - android.os.Bundle 24
+Address 0x13190688L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131906f8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13190710L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13190730L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13190760L 0x0 java.lang.Class - [I 28
+Address 0x13190780L 0x0 java.lang.Class - android.os.Bundle 24
+Address 0x13190798L 0x0 java.lang.Class - java.lang.Integer 12
+Address 0x131907a8L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131907c8L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x131907f8L 0x0 java.lang.Class - [I 28
+Address 0x13190818L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x13190830L 0x0 java.lang.Class - [I 56
+Address 0x13190868L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x131908a0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131908b8L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x131908e8L 0x0 java.lang.Class - [I 28
+Address 0x13190908L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190948L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190988L 0x0 java.lang.Class - android.os.Message 60
+Address 0x131909c8L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190a08L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190a48L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190a88L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190ac8L 0x0 java.lang.Class - android.os.Message 60
+Address 0x13190b08L 0x0 java.lang.Class - android.app.ContextImpl 116
+Address 0x13190b80L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13190b98L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13190bb0L 0x0 java.lang.Class - android.app.ContextImpl$ApplicationContentResolver 32
+Address 0x13190bd0L 0x0 java.lang.Class - [Ljava.lang.Object; 288
+Address 0x13190cf0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13190cf8L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x13190d08L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x13190d28L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x13190d40L 0x0 java.lang.Class - [Z 16
+Address 0x13190d50L 0x0 java.lang.Class - [I 28
+Address 0x13190d70L 0x0 java.lang.Class - android.view.WindowManagerImpl 24
+Address 0x13190d88L 0x0 java.lang.Class - java.util.Random 24
+Address 0x13190da0L 0x0 java.lang.Class - java.util.concurrent.atomic.AtomicLong 16
+Address 0x13190db0L 0x0 java.lang.Class - java.util.WeakHashMap 44
+Address 0x13190de0L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13190e00L 0x0 java.lang.Class - android.content.res.CompatibilityInfo 24
+Address 0x13190e18L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13190e88L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13190ea8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13190ec0L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13190ef8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13190f10L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13190f40L 0x0 java.lang.Class - [I 28
+Address 0x13190f60L 0x0 java.lang.Class - android.content.res.ResourcesKey 40
+Address 0x13190f88L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13190fa0L 0x0 java.lang.Class - android.content.res.ResourcesKey 40
+Address 0x13190fc8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13190fe0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13191050L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131910c0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131910d8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131910f0L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13191120L 0x0 java.lang.Class - [I 28
+Address 0x13191140L 0x0 java.lang.Class - android.util.Pair 16
+Address 0x13191150L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13191168L 0x0 java.lang.Class - android.util.Pair 16
+Address 0x13191178L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13191190L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x131911a0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13191210L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x13191220L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13191290L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131912a8L 0x0 java.lang.Class - java.lang.ref.ReferenceQueue 20
+Address 0x131912c0L 0x0 java.lang.Class - [Ljava.util.WeakHashMap$Entry; 76
+Address 0x13191310L 0x0 java.lang.Class - java.util.WeakHashMap$Entry 36
+Address 0x13191338L 0x0 java.lang.Class - java.util.WeakHashMap$Entry 36
+Address 0x13191360L 0x0 java.lang.Class - android.app.ResourcesManager$ActivityResources 16
+Address 0x13191370L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13191388L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131913f8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13191410L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x13191420L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x13191430L 0x0 java.lang.Class - java.lang.String 21
+Address 0x13191448L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13191480L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13191498L 0x0 java.lang.Class - android.app.ResourcesManager$ActivityResources 16
+Address 0x131914a8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131914c0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13191530L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13191548L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13191580L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13191598L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x131915a0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131915b8L 0x0 java.lang.Class - android.view.inputmethod.InputMethodManager$H 32
+Address 0x131915d8L 0x0 java.lang.Class - android.util.Pools$SimplePool 16
+Address 0x131915e8L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x13191600L 0x0 java.lang.Class - com.android.internal.view.IInputMethodManager$Stub$Proxy 12
+Address 0x13191610L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13191628L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13191648L 0x0 java.lang.Class - [I 96
+Address 0x131916a8L 0x0 java.lang.Class - [Ljava.lang.Object; 96
+Address 0x13191708L 0x0 java.lang.Class - [Ljava.lang.Object; 92
+Address 0x13191768L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x13191780L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13191798L 0x0 java.lang.Class - android.hardware.display.IDisplayManager$Stub$Proxy 12
+Address 0x131917a8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x131917b0L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x131917d0L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13191808L 0x0 java.lang.Class - android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate 32
+Address 0x13191828L 0x0 java.lang.Class - [I 56
+Address 0x13191860L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x13191898L 0x0 java.lang.Class - java.lang.String 65
+Address 0x131918e0L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13191900L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13191920L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13191940L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13191960L 0x0 java.lang.Class - android.util.ArraySet 25
+Address 0x13191980L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13191988L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131919a0L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131919b8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131919d0L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13191a08L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13191a40L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13191a78L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x13191a88L 0x0 java.lang.Class - java.lang.String 21
+Address 0x13191aa0L 0x0 java.lang.Class - android.security.net.config.ManifestConfigSource 36
+Address 0x13191ac8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13191ad0L 0x0 java.lang.Class - android.app.ContextImpl 116
+Address 0x13191b48L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13191b50L 0x0 java.lang.Class - java.io.File 24
+Address 0x13191b68L 0x0 java.lang.Class - android.app.ContextImpl$ApplicationContentResolver 32
+Address 0x13191b88L 0x0 java.lang.Class - [Ljava.lang.Object; 288
+Address 0x13191ca8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13191cb0L 0x0 java.lang.Class - java.util.Random 24
+Address 0x13191cc8L 0x0 java.lang.Class - java.util.concurrent.atomic.AtomicLong 16
+Address 0x13191cd8L 0x0 java.lang.Class - android.view.ViewGroup$TouchTarget 20
+Address 0x13191cf0L 0x0 java.lang.Class - android.view.ViewGroup$TouchTarget 20
+Address 0x13191d08L 0x0 java.lang.Class - android.view.ViewGroup$TouchTarget 20
+Address 0x13191d20L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13191d38L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13191d48L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13191d58L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13191d68L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13191d78L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13191d88L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13191d98L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13191db0L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13191dc8L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13191de0L 0x0 java.lang.Class - android.util.MemoryIntArray 25
+Address 0x13191e00L 0x0 java.lang.Class - android.provider.-$Lambda$87WmhkvObehVg0OMBzwa_MTVV8g 12
+Address 0x13191e10L 0x0 java.lang.Class - java.lang.String 24
+Address 0x13191e28L 0x0 java.lang.Class - java.lang.String 24
+Address 0x13191e40L 0x0 java.lang.Class - android.app.ActivityThread$1 12
+Address 0x13191e50L 0x0 java.lang.Class - android.app.-$Lambda$9I5WEMsoBc7l4QrNqZ4wx59yuHU$1 12
+Address 0x13191e60L 0x0 java.lang.Class - android.text.SpanSet 32
+Address 0x13191e80L 0x0 java.lang.Class - android.text.SpanSet 32
+Address 0x13191ea0L 0x0 java.lang.Class - android.text.SpanSet 32
+Address 0x13191ec0L 0x0 java.lang.Class - android.text.TextPaint 120
+Address 0x13191f38L 0x0 java.lang.Class - android.text.SpanSet 32
+Address 0x13191f58L 0x0 java.lang.Class - android.text.SpanSet 32
+Address 0x13191f78L 0x0 java.lang.Class - android.text.SpanSet 32
+Address 0x13191f98L 0x0 java.lang.Class - android.text.TextPaint 120
+Address 0x13192010L 0x0 java.lang.Class - android.app.ApplicationPackageManager$ResourceName 16
+Address 0x13192020L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13192038L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13192060L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192078L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192090L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131920a8L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131920c0L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131920d8L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131920f0L 0x0 java.lang.Class - java.lang.String 28
+Address 0x13192110L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x13192140L 0x0 java.lang.Class - java.lang.String 25
+Address 0x13192160L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x13192190L 0x0 java.lang.Class - java.lang.String 24
+Address 0x131921a8L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x131921d8L 0x0 java.lang.Class - java.lang.String 30
+Address 0x131921f8L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x13192228L 0x0 java.lang.Class - java.lang.String 27
+Address 0x13192248L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x13192278L 0x0 java.lang.Class - java.lang.String 24
+Address 0x13192290L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131922a8L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x131922d8L 0x0 java.lang.Class - java.lang.reflect.Constructor 48
+Address 0x13192308L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192320L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192338L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13192350L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192368L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13192380L 0x0 java.lang.Class - java.lang.String 21
+Address 0x13192398L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x131923b8L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131923d0L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131923e8L 0x0 java.lang.Class - java.util.HashMap 40
+Address 0x13192410L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x13192460L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192478L 0x0 java.lang.Class - java.lang.String 49
+Address 0x131924b0L 0x0 java.lang.Class - java.util.HashMap 40
+Address 0x131924d8L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x13192528L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192540L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192558L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192570L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x13192588L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131925a0L 0x0 java.lang.Class - java.lang.String 43
+Address 0x131925d0L 0x0 java.lang.Class - java.lang.String 52
+Address 0x13192608L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13192630L 0x0 java.lang.Class - java.lang.String 47
+Address 0x13192660L 0x0 java.lang.Class - java.lang.String 37
+Address 0x13192688L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131926a0L 0x0 java.lang.Class - java.util.HashMap$Node 24
+Address 0x131926b8L 0x0 java.lang.Class - java.lang.String 17
+Address 0x131926d0L 0x893f39ff java.lang.Class - android.os.BinderProxy 32
+Address 0x131926f0L 0x0 java.lang.Class - android.util.MemoryIntArray 25
+Address 0x13192710L 0x0 java.lang.Class - android.provider.-$Lambda$87WmhkvObehVg0OMBzwa_MTVV8g 12
+Address 0x13192720L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13192740L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x13192758L 0x0 java.lang.Class - Object cannot be derefenced 0
+Address 0x13192760L 0x0 java.lang.Class - [I 20
+Address 0x13192778L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x13192790L 0x0 java.lang.Class - [I 20
+Address 0x131927a8L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x131927c0L 0x0 java.lang.Class - Object cannot be derefenced 0
+Address 0x131927c8L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x131927d8L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x131927e8L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x131927f8L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x13192808L 0x0 java.lang.Class - [I 20
+Address 0x13192820L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x13192838L 0x0 java.lang.Class - [I 20
+Address 0x13192850L 0x0 java.lang.Class - java.lang.String 49
+Address 0x13192888L 0x0 java.lang.Class - java.lang.String 47
+Address 0x131928b8L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerThunk 24
+Address 0x131928d0L 0x0 java.lang.Class - [Lsun.security.jca.ProviderConfig; 40
+Address 0x131928f8L 0x0 java.lang.Class - sun.security.jca.ProviderList$2 16
+Address 0x13192908L 0x0 java.lang.Class - sun.security.jca.ProviderConfig 25
+Address 0x13192928L 0x0 java.lang.Class - android.security.net.config.NetworkSecurityConfigProvider 88
+Address 0x13192980L 0x0 java.lang.Class - [Ljava.util.Hashtable$HashtableEntry; 56
+Address 0x131929b8L 0x0 java.lang.Class - java.util.LinkedHashMap 49
+Address 0x131929f0L 0x0 java.lang.Class - [Ljava.util.HashMap$Node; 76
+Address 0x13192a40L 0x0 java.lang.Class - java.util.LinkedHashMap$LinkedHashMapEntry 32
+Address 0x13192a60L 0x0 java.lang.Class - java.util.LinkedHashMap$LinkedHashMapEntry 32
+Address 0x13192a80L 0x0 java.lang.Class - java.lang.String 70
+Address 0x13192ac8L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13192ae0L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13192af8L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13192b10L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13192b28L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13192b40L 0x0 java.lang.Class - java.lang.String 19
+Address 0x13192b58L 0x0 java.lang.Class - java.util.Hashtable$HashtableEntry 24
+Address 0x13192b70L 0x0 java.lang.Class - [Ljava.util.Hashtable$HashtableEntry; 56
+Address 0x13192ba8L 0x0 java.lang.Class - com.android.internal.os.LoggingPrintStream$1 8
+Address 0x13192bb0L 0x0 java.lang.Class - java.lang.StringBuilder 16
+Address 0x13192bc0L 0x0 java.lang.Class - java.util.Formatter 22
+Address 0x13192bd8L 0x0 java.lang.Class - [C 44
+Address 0x13192c08L 0x0 java.lang.Class - com.android.internal.os.LoggingPrintStream$1 8
+Address 0x13192c10L 0x0 java.lang.Class - java.lang.StringBuilder 16
+Address 0x13192c20L 0x0 java.lang.Class - java.util.Formatter 22
+Address 0x13192c38L 0x0 java.lang.Class - [C 44
+Address 0x13192c68L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192c70L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192c78L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192c80L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13192c98L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192ca0L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192ca8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192cb0L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap 20
+Address 0x13192cc8L 0x0 java.lang.Class - [Ljava.lang.ThreadLocal$ThreadLocalMap$Entry; 76
+Address 0x13192d18L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13192d38L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192d40L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192d48L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192d50L 0x0 java.lang.Class - java.lang.String 28
+Address 0x13192d70L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192d78L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192d80L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192d88L 0x0 java.lang.Class - java.lang.String 29
+Address 0x13192da8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192db0L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192db8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192dc0L 0x0 java.lang.Class - java.lang.String 29
+Address 0x13192de0L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap 20
+Address 0x13192df8L 0x0 java.lang.Class - [Ljava.lang.ThreadLocal$ThreadLocalMap$Entry; 76
+Address 0x13192e48L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13192e68L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13192e88L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192e90L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192e98L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192ea0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192ea8L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192eb0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192eb8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192ec0L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192ec8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192ed0L 0x0 java.lang.Class - java.lang.String 29
+Address 0x13192ef0L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap 20
+Address 0x13192f08L 0x0 java.lang.Class - [Ljava.lang.ThreadLocal$ThreadLocalMap$Entry; 76
+Address 0x13192f58L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13192f78L 0x0 java.lang.Class - java.lang.ThreadLocal$ThreadLocalMap$Entry 28
+Address 0x13192f98L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192fa0L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192fa8L 0x4f13e47a java.lang.Class - java.lang.Object 8
+Address 0x13192fb0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192fb8L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192fc0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192fc8L 0x0 java.lang.Class - java.lang.String 20
+Address 0x13192fe0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192fe8L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13192ff0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13192ff8L 0x0 java.lang.Class - java.lang.String 30
+Address 0x13193018L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13193020L 0x0 java.lang.Class - java.security.AccessControlContext 8
+Address 0x13193028L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13193030L 0x0 java.lang.Class - java.lang.String 47
+Address 0x13193060L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13193090L 0x0 java.lang.Class - [I 68
+Address 0x131930d8L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131930f8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13193110L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13193130L 0x0 java.lang.Class - android.app.ActivityThread$AppBindData 64
+Address 0x13193170L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131931e0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13193250L 0x0 java.lang.Class - android.os.Bundle 24
+Address 0x13193268L 0x0 java.lang.Class - android.app.ActivityThread$GcIdler 12
+Address 0x13193278L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13193290L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131932b0L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131932d0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13193340L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13193348L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13193368L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13193388L 0x0 java.lang.Class - android.app.ActivityThread$Profiler 24
+Address 0x131933a0L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131933c0L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131933e0L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131933f8L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13193418L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13193438L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13193468L 0x0 java.lang.Class - [I 28
+Address 0x13193488L 0x0 java.lang.Class - android.app.ActivityThread$ProviderRefCount 25
+Address 0x131934a8L 0x0 java.lang.Class - android.app.ActivityThread$ProviderClientRecord 28
+Address 0x131934c8L 0x0 java.lang.Class - android.app.ContentProviderHolder 21
+Address 0x131934e0L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13193500L 0x0 java.lang.Class - android.content.pm.ProviderInfo 95
+Address 0x13193560L 0x0 java.lang.Class - java.lang.String 63
+Address 0x131935a0L 0x0 java.lang.Class - java.lang.String 46
+Address 0x131935d0L 0x0 java.lang.Class - android.content.pm.ApplicationInfo 234
+Address 0x131936c0L 0x0 java.lang.Class - java.lang.String 22
+Address 0x131936d8L 0x0 java.lang.Class - java.lang.String 24
+Address 0x131936f0L 0x0 java.lang.Class - java.lang.String 66
+Address 0x13193738L 0x0 java.lang.Class - java.lang.String 59
+Address 0x13193778L 0x0 java.lang.Class - java.lang.String 62
+Address 0x131937b8L 0x0 java.lang.Class - java.lang.String 62
+Address 0x131937f8L 0x0 java.lang.Class - java.lang.String 57
+Address 0x13193838L 0x0 java.lang.Class - java.lang.String 53
+Address 0x13193870L 0x0 java.lang.Class - java.lang.String 22
+Address 0x13193888L 0x0 java.lang.Class - java.lang.String 70
+Address 0x131938d0L 0x0 java.lang.Class - java.lang.String 49
+Address 0x13193908L 0x0 java.lang.Class - java.lang.String 49
+Address 0x13193940L 0x0 java.lang.Class - java.lang.String 52
+Address 0x13193978L 0x0 java.lang.Class - java.lang.String 25
+Address 0x13193998L 0x0 java.lang.Class - java.lang.String 70
+Address 0x131939e0L 0x0 java.lang.Class - java.util.UUID 24
+Address 0x131939f8L 0x0 java.lang.Class - java.lang.String 46
+Address 0x13193a28L 0x0 java.lang.Class - java.lang.String 46
+Address 0x13193a58L 0x0 java.lang.Class - [Ljava.lang.String; 13
+Address 0x13193a68L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13193a98L 0x0 java.lang.Class - [I 28
+Address 0x13193ab8L 0x0 java.lang.Class - android.app.ActivityThread$ProviderKey 16
+Address 0x13193ac8L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13193af8L 0x0 java.lang.Class - [I 28
+Address 0x13193b18L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13193b30L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13193b50L 0x0 java.lang.Class - [Ljava.lang.Object; 28
+Address 0x13193b70L 0x0 java.lang.Class - [I 20
+Address 0x13193b88L 0x0 java.lang.Class - java.lang.String 34
+Address 0x13193bb0L 0x0 java.lang.Class - java.lang.Integer 12
+Address 0x13193bc0L 0x0 java.lang.Class - java.lang.String 35
+Address 0x13193be8L 0x0 java.lang.Class - java.lang.Integer 12
+Address 0x13193bf8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13193c10L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13193c28L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13193c98L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13193cb0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13193cc8L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13193d00L 0x0 java.lang.Class - [Ljava.lang.Object; 44
+Address 0x13193d30L 0x0 java.lang.Class - [I 28
+Address 0x13193d50L 0x0 java.lang.Class - java.lang.String 33
+Address 0x13193d78L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13193d90L 0x0 java.lang.Class - [Landroid.os.MessageQueue$IdleHandler; 28
+Address 0x13193db0L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13193de8L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13193e08L 0x0 java.lang.Class - android.os.ParcelFileDescriptor 33
+Address 0x13193e30L 0x0 java.lang.Class - android.view.InputChannel 16
+Address 0x13193e40L 0x8ed5bee7 java.lang.Class - android.content.res.AssetManager$AssetInputStream 40
+Address 0x13193e68L 0x83f904a6 java.lang.Class - android.content.res.AssetManager$AssetInputStream 40
+Address 0x13193e90L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13193eb8L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13193ee0L 0x0 java.lang.Class - android.graphics.Path 25
+Address 0x13193f00L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13193f28L 0x0 java.lang.Class - android.graphics.Path 25
+Address 0x13193f48L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13193f70L 0x0 java.lang.Class - android.view.InputChannel 16
+Address 0x13193f80L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13193fa0L 0x0 java.lang.Class - android.view.ViewRootImpl$WindowInputEventReceiver 36
+Address 0x13193fc8L 0x0 java.lang.Class - android.view.InputChannel 16
+Address 0x13193fd8L 0x0 java.lang.Class - android.os.ParcelFileDescriptor 33
+Address 0x13194000L 0x0 java.lang.Class - android.view.ThreadedRenderer 74
+Address 0x13194050L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x13194060L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x13194070L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x13194080L 0x0 java.lang.Class - android.graphics.Region 16
+Address 0x13194090L 0x0 java.lang.Class - android.view.Surface 53
+Address 0x131940c8L 0x838231f6 java.lang.Class - android.content.res.AssetManager$AssetInputStream 40
+Address 0x131940f0L 0x81782e91 java.lang.Class - android.content.res.AssetManager$AssetInputStream 40
+Address 0x13194118L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13194140L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x13194160L 0x886a20b8 java.lang.Class - android.content.res.XmlBlock 29
+Address 0x13194180L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x131941a8L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x131941c8L 0x8f57771b java.lang.Class - android.content.res.XmlBlock 29
+Address 0x131941e8L 0x0 java.lang.Class - android.graphics.Path 25
+Address 0x13194208L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13194230L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x13194250L 0x80d26d2a java.lang.Class - android.content.res.XmlBlock 29
+Address 0x13194270L 0x0 java.lang.Class - android.graphics.Path 25
+Address 0x13194290L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x131942b8L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x131942d8L 0x890c4615 java.lang.Class - android.content.res.XmlBlock 29
+Address 0x131942f8L 0x0 java.lang.Class - android.graphics.Path 25
+Address 0x13194318L 0x0 java.lang.Class - android.content.res.XmlBlock$Parser 34
+Address 0x13194340L 0x0 java.lang.Class - android.content.res.StringBlock 32
+Address 0x13194360L 0x8dd193cc java.lang.Class - android.content.res.XmlBlock 29
+Address 0x13194380L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x131943a0L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x131943c0L 0x0 java.lang.Class - android.content.res.ResourcesImpl$ThemeImpl 32
+Address 0x131943e0L 0x0 java.lang.Class - android.os.ParcelFileDescriptor 33
+Address 0x13194408L 0x0 java.lang.Class - android.os.StrictMode$InstanceTracker 12
+Address 0x13194418L 0x0 java.lang.Class - android.os.BinderProxy 32
+Address 0x13194438L 0x8b1f2d59 java.lang.Class - android.os.BinderProxy 32
+Address 0x13194458L 0x0 java.lang.Class - com.android.internal.os.BinderInternal$GcWatcher 8
+Address 0x13194460L 0x0 java.lang.Class - android.net.LocalSocketImpl 37
+Address 0x13194488L 0x0 java.lang.Class - android.net.LocalSocketImpl$SocketInputStream 12
+Address 0x13194498L 0x0 java.lang.Class - android.net.LocalSocketImpl$SocketOutputStream 12
+Address 0x131944a8L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x131944b0L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x131944b8L 0x0 java.lang.Class - java.io.FileDescriptor 12
+Address 0x131944c8L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x131944e0L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x131944f8L 0x0 java.lang.Class - [Z 16
+Address 0x13194508L 0x0 java.lang.Class - [I 28
+Address 0x13194528L 0x0 java.lang.Class - android.content.res.Resources$ThemeKey 24
+Address 0x13194540L 0x0 java.lang.Class - [Z 16
+Address 0x13194550L 0x0 java.lang.Class - [I 28
+Address 0x13194570L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 40
+Address 0x13194598L 0x0 java.lang.Class - java.lang.String 32
+Address 0x131945b8L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 40
+Address 0x131945e0L 0x0 java.lang.Class - java.lang.String 32
+Address 0x13194600L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 76
+Address 0x13194650L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 92
+Address 0x131946b0L 0x0 java.lang.Class - [Ljava.lang.CharSequence; 36
+Address 0x131946d8L 0x0 java.lang.Class - java.lang.String 22
+Address 0x131946f0L 0x0 java.lang.Class - android.view.Surface$CompatibleCanvas 48
+Address 0x13194720L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13194728L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13194738L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13194750L 0x0 java.lang.Class - java.io.FileDescriptor 12
+Address 0x13194760L 0x0 java.lang.Class - android.util.SparseIntArray 20
+Address 0x13194778L 0x0 java.lang.Class - android.view.ViewRootImpl 506
+Address 0x13194978L 0x83ec69f7 java.lang.Class - android.view.ViewRootImpl$AccessibilityInteractionConnectionManager 12
+Address 0x13194988L 0x0 java.lang.Class - android.app.-$Lambda$9I5WEMsoBc7l4QrNqZ4wx59yuHU 12
+Address 0x13194998L 0x0 java.lang.Class - android.view.View$AttachInfo 254
+Address 0x13194a98L 0x0 java.lang.Class - android.view.ViewRootImpl$ConsumeBatchedInputImmediatelyRunnable 12
+Address 0x13194aa8L 0x0 java.lang.Class - android.view.ViewRootImpl$ConsumeBatchedInputRunnable 12
+Address 0x13194ab8L 0x0 java.lang.Class - com.android.internal.policy.DecorContext 44
+Address 0x13194ae8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194b00L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194b18L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194b30L 0x0 java.lang.Class - android.view.Display 73
+Address 0x13194b80L 0x0 java.lang.Class - android.view.ViewRootImpl$1 12
+Address 0x13194b90L 0x0 java.lang.Class - android.graphics.PointF 16
+Address 0x13194ba0L 0x0 java.lang.Class - com.android.internal.policy.PhoneFallbackEventHandler 32
+Address 0x13194bc0L 0x0 java.lang.Class - android.view.ViewRootImpl$NativePreImeInputStage 40
+Address 0x13194be8L 0x0 java.lang.Class - android.view.ViewRootImpl$EarlyPostImeInputStage 20
+Address 0x13194c00L 0x0 java.lang.Class - android.view.ViewRootImpl$ViewRootHandler 32
+Address 0x13194c20L 0x8ffc9064 java.lang.Class - android.view.ViewRootImpl$HighContrastTextManager 12
+Address 0x13194c30L 0x0 java.lang.Class - android.view.ViewRootImpl$InvalidateOnAnimationRunnable 29
+Address 0x13194c50L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13194cc0L 0x0 java.lang.Class - android.view.ViewTreeObserver$InternalInsetsInfo 24
+Address 0x13194cd8L 0x0 java.lang.Class - android.util.MergedConfiguration 20
+Address 0x13194cf0L 0x0 java.lang.Class - android.graphics.PointF 16
+Address 0x13194d00L 0x0 java.lang.Class - android.view.WindowInsets 29
+Address 0x13194d20L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13194d38L 0x0 java.lang.Class - android.view.WindowLeaked 28
+Address 0x13194d58L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194d70L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194d88L 0x0 java.lang.Class - java.lang.String 98
+Address 0x13194df0L 0x0 java.lang.Class - android.util.MergedConfiguration 20
+Address 0x13194e08L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194e20L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194e38L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194e50L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194e68L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticInputStage 36
+Address 0x13194e90L 0x0 java.lang.Class - java.lang.String 44
+Address 0x13194ec0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194ed8L 0x0 java.lang.Class - [I 20
+Address 0x13194ef0L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13194f18L 0x0 java.lang.Class - android.view.ViewRootImpl$TraversalRunnable 12
+Address 0x13194f28L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194f40L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13194f58L 0x0 java.lang.Class - android.view.WindowManager$LayoutParams 175
+Address 0x13195008L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13195020L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13195038L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13195070L 0x0 java.lang.Class - java.lang.String 87
+Address 0x131950c8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131950e0L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticJoystickHandler 48
+Address 0x13195110L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticKeyboardHandler 12
+Address 0x13195120L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticTouchNavigationHandler 112
+Address 0x13195190L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticTrackballHandler 32
+Address 0x131951b0L 0x0 java.lang.Class - android.view.ViewRootImpl$TrackballAxis 36
+Address 0x131951d8L 0x0 java.lang.Class - android.view.ViewRootImpl$TrackballAxis 36
+Address 0x13195200L 0x0 java.lang.Class - android.view.ViewRootImpl$SyntheticTouchNavigationHandler$1 12
+Address 0x13195210L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13195280L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131952f0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13195360L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x13195370L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x13195380L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x13195390L 0x0 java.lang.Class - [Ljava.lang.Object; 68
+Address 0x131953d8L 0x0 java.lang.Class - [I 116
+Address 0x13195450L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195468L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131954d8L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13195548L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131955b8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131955d0L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x131955e0L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x131955f0L 0x0 java.lang.Class - java.lang.String 21
+Address 0x13195608L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195620L 0x0 java.lang.Class - android.os.LocaleList 16
+Address 0x13195630L 0x0 java.lang.Class - [Ljava.util.Locale; 16
+Address 0x13195640L 0x0 java.lang.Class - java.lang.String 21
+Address 0x13195658L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195670L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195688L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131956a0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131956b8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131956d0L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131956e8L 0x0 java.lang.Class - android.view.ViewRootImpl$NativePostImeInputStage 40
+Address 0x13195710L 0x0 java.lang.Class - android.view.ViewRootImpl$ViewPostImeInputStage 20
+Address 0x13195728L 0x0 java.lang.Class - java.lang.String 106
+Address 0x13195798L 0x0 java.lang.Class - android.view.ViewRootImpl$ViewPreImeInputStage 20
+Address 0x131957b0L 0x0 java.lang.Class - java.lang.String 105
+Address 0x13195820L 0x0 java.lang.Class - android.view.ViewRootImpl$ImeInputStage 40
+Address 0x13195848L 0x0 java.lang.Class - java.lang.String 94
+Address 0x131958a8L 0x8320c532 java.lang.Class - com.android.internal.policy.DecorView 855
+Address 0x13195c00L 0x0 java.lang.Class - com.android.internal.widget.BackgroundFallback 12
+Address 0x13195c10L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195c28L 0x0 java.lang.Class - android.widget.LinearLayout 672
+Address 0x13195ec8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195ee0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195ef8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195f10L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195f28L 0x0 java.lang.Class - android.view.animation.PathInterpolator 20
+Address 0x13195f40L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x13195fa0L 0x0 java.lang.Class - java.lang.String 27
+Address 0x13195fc0L 0x0 java.lang.Class - com.android.internal.policy.DecorView$ColorViewState 26
+Address 0x13195fe0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13195ff8L 0x0 java.lang.Class - android.graphics.drawable.StateListDrawable 97
+Address 0x13196060L 0x0 java.lang.Class - android.view.animation.PathInterpolator 20
+Address 0x13196078L 0x0 java.lang.Class - com.android.internal.policy.DecorView$ColorViewState 26
+Address 0x13196098L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x131960f8L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow 361
+Address 0x13196268L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13196280L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x131962c0L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x131962d0L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x131962e8L 0x0 java.lang.Class - android.view.WindowManager$LayoutParams 175
+Address 0x13196398L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x131963b0L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x131963c8L 0x0 java.lang.Class - android.content.res.Resources 36
+Address 0x131963f0L 0x0 java.lang.Class - android.graphics.drawable.DrawableInflater 16
+Address 0x13196400L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13196418L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196440L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13196448L 0x0 java.lang.Class - android.util.Pools$SynchronizedPool 20
+Address 0x13196460L 0x0 java.lang.Class - [Ljava.lang.Object; 32
+Address 0x13196480L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13196488L 0x0 java.lang.Class - android.content.res.TypedArray 61
+Address 0x131964c8L 0x0 java.lang.Class - android.content.res.TypedArray 61
+Address 0x13196508L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196530L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196558L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13196590L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131965a8L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131965c0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131965d8L 0x0 java.lang.Class - [J 28
+Address 0x131965f8L 0x0 java.lang.Class - [J 28
+Address 0x13196618L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13196630L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x13196640L 0x0 java.lang.Class - android.widget.FrameLayout 636
+Address 0x131968c0L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow$PhoneWindowMenuCallback 17
+Address 0x131968d8L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196900L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196928L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196950L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196978L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow$1 12
+Address 0x13196988L 0x0 java.lang.Class - com.android.internal.policy.PhoneLayoutInflater 41
+Address 0x131969b8L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x131969e0L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196a08L 0x0 java.lang.Class - [Lcom.android.internal.policy.PhoneWindow$PanelFeatureState; 16
+Address 0x13196a18L 0x8220a0ef java.lang.Class - com.parseapp.snapphoto.activities.SplashActivity 228
+Address 0x13196b00L 0x0 java.lang.Class - android.view.WindowManagerImpl 24
+Address 0x13196b18L 0x0 java.lang.Class - android.content.res.TypedArray 61
+Address 0x13196b58L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x13196b68L 0x0 java.lang.Class - android.util.TypedValue 36
+Address 0x13196b90L 0x0 java.lang.Class - android.app.ContextImpl 116
+Address 0x13196c08L 0x0 java.lang.Class - android.app.ContextImpl$ApplicationContentResolver 32
+Address 0x13196c28L 0x0 java.lang.Class - android.app.ApplicationPackageManager 44
+Address 0x13196c58L 0x0 java.lang.Class - [Ljava.lang.Object; 288
+Address 0x13196d78L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13196d80L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x13196d90L 0x0 java.lang.Class - com.android.internal.policy.PhoneLayoutInflater 41
+Address 0x13196dc0L 0x0 java.lang.Class - android.view.WindowManagerImpl 24
+Address 0x13196dd8L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x13196df0L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13196e08L 0x0 java.lang.Class - java.lang.Object 8
+Address 0x13196e10L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13196e30L 0x0 java.lang.Class - java.util.Random 24
+Address 0x13196e48L 0x0 java.lang.Class - java.util.concurrent.atomic.AtomicLong 16
+Address 0x13196e58L 0x0 java.lang.Class - android.content.pm.ActivityInfo 152
+Address 0x13196ef0L 0x0 java.lang.Class - android.app.ActivityTransitionState 51
+Address 0x13196f28L 0x0 java.lang.Class - android.content.ComponentName 16
+Address 0x13196f38L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13196fa8L 0x0 java.lang.Class - android.app.FragmentController 12
+Address 0x13196fb8L 0x0 java.lang.Class - android.os.Handler 25
+Address 0x13196fd8L 0x0 java.lang.Class - android.content.Intent 60
+Address 0x13197018L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13197030L 0x0 java.lang.Class - android.app.ActivityManager$TaskDescription 36
+Address 0x13197058L 0x0 java.lang.Class - android.util.ArraySet 25
+Address 0x13197078L 0x0 java.lang.Class - android.app.Activity$HostCallbacks 44
+Address 0x131970a8L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131970c8L 0x0 java.lang.Class - android.app.FragmentManagerImpl 110
+Address 0x13197138L 0x0 java.lang.Class - android.app.FragmentManagerImpl$1 12
+Address 0x13197148L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13197160L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13197178L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13197190L 0x0 java.lang.Class - java.lang.String 64
+Address 0x131971d0L 0x0 java.lang.Class - java.lang.String 38
+Address 0x131971f8L 0x0 java.lang.Class - java.lang.String 64
+Address 0x13197238L 0x0 java.lang.Class - android.content.pm.ApplicationInfo 234
+Address 0x13197328L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13197350L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13197378L 0x0 java.lang.Class - java.lang.String 61
+Address 0x131973b8L 0x0 java.lang.Class - java.lang.String 51
+Address 0x131973f0L 0x0 java.lang.Class - java.lang.String 51
+Address 0x13197428L 0x0 java.lang.Class - java.lang.String 54
+Address 0x13197460L 0x0 java.lang.Class - java.lang.String 81
+Address 0x131974b8L 0x0 java.lang.Class - java.lang.String 77
+Address 0x13197508L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13197530L 0x0 java.lang.Class - java.lang.String 82
+Address 0x13197588L 0x0 java.lang.Class - java.lang.String 73
+Address 0x131975d8L 0x0 java.lang.Class - java.lang.String 73
+Address 0x13197628L 0x0 java.lang.Class - java.lang.String 43
+Address 0x13197658L 0x0 java.lang.Class - java.lang.String 25
+Address 0x13197678L 0x0 java.lang.Class - java.lang.String 82
+Address 0x131976d0L 0x0 java.lang.Class - java.util.UUID 24
+Address 0x131976e8L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13197710L 0x0 java.lang.Class - java.lang.String 61
+Address 0x13197750L 0x0 java.lang.Class - java.lang.String 38
+Address 0x13197778L 0x0 java.lang.Class - com.android.internal.policy.PhoneWindow$PanelFeatureState 82
+Address 0x131977d0L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x131977e8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13197800L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x13197840L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x13197850L 0x0 java.lang.Class - android.view.View$ForegroundInfo 30
+Address 0x13197870L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x131978a8L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x131978c0L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x131978d8L 0x0 java.lang.Class - [J 28
+Address 0x131978f8L 0x0 java.lang.Class - [J 28
+Address 0x13197918L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13197930L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13197948L 0x0 java.lang.Class - android.widget.RelativeLayout 652
+Address 0x13197bd8L 0x0 java.lang.Class - android.widget.ImageView 553
+Address 0x13197e08L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13197e20L 0x0 java.lang.Class - android.widget.RelativeLayout$DependencyGraph 20
+Address 0x13197e38L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13197e50L 0x0 java.lang.Class - [Landroid.view.View; 20
+Address 0x13197e68L 0x0 java.lang.Class - [Landroid.view.View; 20
+Address 0x13197e80L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x13197ec0L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x13197ed0L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable 72
+Address 0x13197f18L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13197f30L 0x0 java.lang.Class - android.widget.FrameLayout$LayoutParams 52
+Address 0x13197f68L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x13197f80L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13197f98L 0x0 java.lang.Class - [J 28
+Address 0x13197fb8L 0x0 java.lang.Class - [J 28
+Address 0x13197fd8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13197ff0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13198008L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13198020L 0x0 java.lang.Class - android.widget.TextView 790
+Address 0x13198338L 0x0 java.lang.Class - android.text.BoringLayout$Metrics 32
+Address 0x13198358L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x131983b8L 0x0 java.lang.Class - android.text.BoringLayout 88
+Address 0x13198410L 0x0 java.lang.Class - android.text.TextPaint 120
+Address 0x13198488L 0x0 java.lang.Class - [I 24
+Address 0x131984a0L 0x0 java.lang.Class - android.widget.RelativeLayout$LayoutParams 73
+Address 0x131984f0L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x13198508L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13198520L 0x0 java.lang.Class - [J 76
+Address 0x13198570L 0x0 java.lang.Class - [J 76
+Address 0x131985c0L 0x0 java.lang.Class - [I 100
+Address 0x13198628L 0x0 java.lang.Class - [I 100
+Address 0x13198690L 0x0 java.lang.Class - [I 28
+Address 0x131986b0L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x131986c8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131986e0L 0x0 java.lang.Class - java.util.ArrayDeque 20
+Address 0x131986f8L 0x0 java.lang.Class - [Ljava.lang.Object; 76
+Address 0x13198748L 0x0 java.lang.Class - [Ljava.lang.Object; 52
+Address 0x13198780L 0x0 java.lang.Class - android.widget.RelativeLayout$DependencyGraph$Node 20
+Address 0x13198798L 0x83e022cd java.lang.Class - android.widget.RelativeLayout$DependencyGraph$Node 20
+Address 0x131987b0L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x131987c8L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x131987e8L 0x0 java.lang.Class - [I 56
+Address 0x13198820L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x13198858L 0x0 java.lang.Class - android.util.SparseArray 21
+Address 0x13198870L 0x0 java.lang.Class - android.util.ArrayMap 25
+Address 0x13198890L 0x0 java.lang.Class - [I 56
+Address 0x131988c8L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x13198900L 0x0 java.lang.Class - [I 56
+Address 0x13198938L 0x0 java.lang.Class - [Ljava.lang.Object; 56
+Address 0x13198970L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x13198980L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable 72
+Address 0x131989c8L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x131989e0L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x131989f8L 0x0 java.lang.Class - android.widget.RelativeLayout$LayoutParams 73
+Address 0x13198a48L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x13198a60L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13198a78L 0x0 java.lang.Class - [J 76
+Address 0x13198ac8L 0x0 java.lang.Class - [J 76
+Address 0x13198b18L 0x0 java.lang.Class - [I 100
+Address 0x13198b80L 0x0 java.lang.Class - [I 100
+Address 0x13198be8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13198c00L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13198c18L 0x0 java.lang.Class - android.graphics.drawable.BitmapDrawable$BitmapState 58
+Address 0x13198c58L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13198c70L 0x0 java.lang.Class - android.graphics.Bitmap 43
+Address 0x13198ca0L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x13198d00L 0x0 java.lang.Class - [Ljava.lang.Object; 16
+Address 0x13198d10L 0x0 java.lang.Class - android.graphics.LinearGradient 64
+Address 0x13198d50L 0x0 java.lang.Class - [I 24
+Address 0x13198d68L 0x0 java.lang.Class - [F 24
+Address 0x13198d80L 0x0 java.lang.Class - [F 108
+Address 0x13198df0L 0x0 java.lang.Class - [F 108
+Address 0x13198e60L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13198e78L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13198e90L 0x0 java.lang.Class - android.graphics.drawable.DrawableContainer$BlockInvalidateCallback 12
+Address 0x13198ea0L 0x0 java.lang.Class - android.graphics.drawable.GradientDrawable 88
+Address 0x13198ef8L 0x0 java.lang.Class - android.graphics.drawable.StateListDrawable$StateListState 112
+Address 0x13198f68L 0x0 java.lang.Class - [Landroid.graphics.drawable.Drawable; 52
+Address 0x13198fa0L 0x0 java.lang.Class - android.graphics.drawable.ColorDrawable 52
+Address 0x13198fd8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13198ff0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x13199008L 0x0 java.lang.Class - android.graphics.drawable.ColorDrawable$ColorState 32
+Address 0x13199028L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x13199088L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131990a0L 0x0 java.lang.Class - java.lang.ref.WeakReference 24
+Address 0x131990b8L 0x0 java.lang.Class - android.graphics.Paint 89
+Address 0x13199118L 0x0 java.lang.Class - android.graphics.drawable.GradientDrawable$GradientState 165
+Address 0x131991c0L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x131991d8L 0x0 java.lang.Class - android.graphics.LinearGradient 64
+Address 0x13199218L 0x0 java.lang.Class - libcore.util.NativeAllocationRegistry$CleanerRunner 12
+Address 0x13199228L 0x0 java.lang.Class - android.graphics.LinearGradient 64
+Address 0x13199268L 0x0 java.lang.Class - [I 24
+Address 0x13199280L 0x0 java.lang.Class - [F 24
+Address 0x13199298L 0x0 java.lang.Class - [F 108
+Address 0x13199308L 0x0 java.lang.Class - [F 108
+Address 0x13199378L 0x0 java.lang.Class - [Landroid.view.View; 60
+Address 0x131993b8L 0x0 java.lang.Class - android.view.ViewGroup$2 12
+Address 0x131993c8L 0x0 java.lang.Class - android.widget.FrameLayout$LayoutParams 52
+Address 0x13199400L 0x0 java.lang.Class - android.util.LongSparseLongArray 20
+Address 0x13199418L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x13199430L 0x0 java.lang.Class - [J 28
+Address 0x13199450L 0x0 java.lang.Class - [J 28
+Address 0x13199470L 0x0 java.lang.Class - android.view.ViewStub 476
+Address 0x13199650L 0x0 java.lang.Class - com.android.internal.policy.PhoneLayoutInflater 41
+Address 0x13199680L 0x0 java.lang.Class - android.widget.LinearLayout$LayoutParams 56
+Address 0x131996b8L 0x0 java.lang.Class - android.view.RenderNode 24
+Address 0x131996d0L 0x0 java.lang.Class - [Ljava.lang.Object; 20
+Address 0x131996e8L 0x0 java.lang.Class - android.view.DisplayAdjustments 16
+Address 0x131996f8L 0x0 java.lang.Class - android.view.DisplayInfo 152
+Address 0x13199790L 0x0 java.lang.Class - android.util.DisplayMetrics 64
+Address 0x131997d0L 0x0 java.lang.Class - android.view.Display$HdrCapabilities 24
+Address 0x131997e8L 0x0 java.lang.Class - java.lang.String 31
+Address 0x13199808L 0x0 java.lang.Class - [I 16
+Address 0x13199818L 0x0 java.lang.Class - [Landroid.view.Display$Mode; 16
+Address 0x13199828L 0x0 java.lang.Class - java.lang.String 23
+Address 0x13199840L 0x0 java.lang.Class - android.view.Display$Mode 24
+Address 0x13199858L 0x0 java.lang.Class - [I 12
+Address 0x13199868L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x131998d8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131998f0L 0x0 java.lang.Class - android.content.res.Resources$Theme 16
+Address 0x13199900L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199918L 0x0 java.lang.Class - android.view.ViewTreeObserver$InternalInsetsInfo 24
+Address 0x13199930L 0x0 java.lang.Class - [I 20
+Address 0x13199948L 0x0 java.lang.Class - android.view.KeyEvent$DispatcherState 20
+Address 0x13199960L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199978L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199990L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131999a8L 0x0 java.lang.Class - android.graphics.Point 16
+Address 0x131999b8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x131999d0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x131999e8L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13199a00L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199a18L 0x0 java.lang.Class - [I 20
+Address 0x13199a30L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x13199a40L 0x0 java.lang.Class - android.graphics.Outline 28
+Address 0x13199a60L 0x0 java.lang.Class - java.util.ArrayList 20
+Address 0x13199a78L 0x0 java.lang.Class - [F 20
+Address 0x13199a90L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x13199aa8L 0x0 java.lang.Class - android.graphics.RectF 24
+Address 0x13199ac0L 0x0 java.lang.Class - android.view.animation.Transformation 25
+Address 0x13199ae0L 0x0 java.lang.Class - [I 20
+Address 0x13199af8L 0x0 java.lang.Class - android.view.ViewTreeObserver 55
+Address 0x13199b30L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199b48L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199b60L 0x0 java.lang.Class - android.graphics.Matrix 16
+Address 0x13199b70L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199b88L 0x0 java.lang.Class - [Ljava.lang.Object; 108
+Address 0x13199bf8L 0x0 java.lang.Class - android.util.SparseIntArray 20
+Address 0x13199c10L 0x0 java.lang.Class - [I 56
+Address 0x13199c48L 0x0 java.lang.Class - [I 56
+Address 0x13199c80L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199c98L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199cb0L 0x0 java.lang.Class - android.app.ActivityThread$ActivityClientRecord 131
+Address 0x13199d38L 0x0 java.lang.Class - android.content.res.CompatibilityInfo 24
+Address 0x13199d50L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13199dc0L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13199e30L 0x0 java.lang.Class - android.content.res.Configuration 109
+Address 0x13199ea0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199eb8L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199ed0L 0x0 java.lang.Class - android.graphics.Rect 24
+Address 0x13199ee8L 0x0 java.lang.Class - [I 56
+Address 0x13199f20L 0x0 java.lang.Class - [I 56
+Address 0x13199f58L 0x0 java.lang.Class - java.io.FileDescriptor 12
+2132
